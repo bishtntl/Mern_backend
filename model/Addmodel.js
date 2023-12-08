@@ -9,7 +9,7 @@ const CartAdd = mongoose.Schema({
   headinghover: String,
   about: String,
   totalhour: String,
-  price:String,
+  price:Number,
 });
 
 

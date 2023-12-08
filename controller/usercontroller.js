@@ -27,6 +27,8 @@ const register = async (req, res) => {
   return res.send({
     msg: "user registered successfully",
     token: token,
+    email:data.email
+   
   });
 };
 const login = async (req, res) => {
@@ -40,16 +42,13 @@ const login = async (req, res) => {
           { email: data.email },
           sycret_key,
           { expiresIn: "1y" },
-          (err) => {
-            if (err) {
-              res.send("jwt token error");
-            }
-          }
+         
         );
         return res.send({
           msg: "user logged in successfully",
           token: token,
           name: details.name,
+          email:details.email
         });
       } else {
         return res.send({
