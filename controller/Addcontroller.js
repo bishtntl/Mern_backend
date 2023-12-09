@@ -11,10 +11,10 @@ const getcartadd = async (req, res) => {
   res.send(data);
 };
 
-// const DeleteCard = async (req,res) =>{
-//   const deletedata = await AddCart.delete();
-//   res.send(deletedata)
-// }
+const DeleteCardone = async (req,res) =>{
+  const deletedata = await AddCart.deleteMany({});
+  res.send(deletedata)
+}
 
 const CartLearn = async (req, res) => {
   const data = req.body;
@@ -31,4 +31,4 @@ const DeleteCart = async (req, res) => {
   const deletedata = await AddCart.findOneAndDelete({id:data.id});
   res.send(deletedata);
 };
-module.exports = { Cart, getcartadd, CartLearn, LearnGetCart, DeleteCart };
+module.exports = { Cart, getcartadd, CartLearn, LearnGetCart, DeleteCart,DeleteCardone };
