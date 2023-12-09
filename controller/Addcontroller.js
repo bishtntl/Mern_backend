@@ -26,7 +26,9 @@ const LearnGetCart = async (req, res) => {
   res.send(getcartdata);
 };
 const DeleteCart = async (req, res) => {
-  const deletedata = await AddCart.deleteOne({});
+  const data=req.body;
+  console.log(data.id)
+  const deletedata = await AddCart.findOneAndDelete({id:data.id});
   res.send(deletedata);
 };
 module.exports = { Cart, getcartadd, CartLearn, LearnGetCart, DeleteCart };

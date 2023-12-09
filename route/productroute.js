@@ -10,5 +10,5 @@ productRouter.post("/createdata", createData);
 productRouter.get("/getdata", getData);
 productRouter.post("/addlearn", CartLearn);
 productRouter.get("/getlearn", LearnGetCart);
-productRouter.delete("/deletecart", DeleteCart);
+productRouter.post("/deletecart", DeleteCart);
 module.exports = productRouter;
