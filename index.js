@@ -10,13 +10,12 @@ const searchroute = require("./route/searchrouter");
 const port = process.env.PORT || 4500;
 const stripe = require("stripe")("sk_test_51OFfDcSFuYPQ8NkkuYA72lHvBGSjM85WF9l552EtiMbyoKQ9Vcg0xWQXONFqiPNbx1CMp7n6bUEL12rtIF9DYYJG00sgCMYDrL")
 
-app.use(
-  cors({
-    origin: "*",
-  })
-);
+app.use(cors({
+  origin:"*"
+}))
 
-app.use(express.urlencoded({ extended: true }));
+
+// app.use(express.urlencoded({ extended: true }));
 app.use(searchroute)
 app.use("/api", userrouter);
 app.use("/api", productRouter);
@@ -55,3 +54,10 @@ app.listen(port, async () => {
     console.log(err, "error");
   }
 });
+
+
+
+
+
+
+
