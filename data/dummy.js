@@ -47,7 +47,8 @@ const HomePage = [
 
   {
     id: "10",
-    category: "pyhonData",
+    category: "python",
+    courses:"",
     img: "https://gicseh.com/images/blog/Learn-Python-Programming.png",
     name: "Jose Portilla",
     heading: "The complete Python Bootcamp From Zero to Hero in Python",
@@ -65,7 +66,8 @@ const HomePage = [
   },
   {
     id: 11,
-    category: "pyhonData",
+    category: "python",
+    courses:"",
     img: "https://tse3.mm.bing.net/th?id=OIP.46Z9gj-Q6JHzGLvQe2HcvwHaEK&pid=Api&P=0&h=180",
     name: "Dr. Angela Yu ",
     heading: "The Complete 2023 Web Development Bootcamp",
@@ -85,7 +87,8 @@ const HomePage = [
 
   {
     id: 12,
-    category: "pyhonData",
+    category: "python",
+    courses:"",
     img: "https://tse1.mm.bing.net/th?id=OIP.B5XX8Pm1BsJ10N0U9wXIWAHaEK&pid=Api&P=0&h=180",
     name: "Academind by Maximilian Schwarzmuller",
     heading: "React-The Complete Guide 2023 (incl.React Router)",
@@ -104,7 +107,8 @@ const HomePage = [
   },
   {
     id: 13,
-    category: "pyhonData",
+    category: "python",
+    courses:"",
     img: "https://tse2.mm.bing.net/th?id=OIP.2oY8_miY3nrp-EzftKLApwHaEw&pid=Api&P=0&h=180",
     name: "Stephane Maarek | AWS Certified  Cloud",
     heading: "Ultimate AWS Certified Solution Architect Associate",
@@ -123,6 +127,7 @@ const HomePage = [
   {
     id: 14,
     category: "pyhonDataSecond",
+    courses:"",
     img: "https://tse4.mm.bing.net/th?id=OIP.dFQs3SJgf43mb67el33iMAHaEK&pid=Api&P=0&h=180",
     name: "Yassin Marco",
     heading: "Python-Introduction to Data Science and Machine learning A-Z",
@@ -142,6 +147,7 @@ const HomePage = [
   {
     id: 15,
     category: "pyhonDataSecond",
+    courses:"",
     img: "https://iloadzonev2.sgp1.digitaloceanspaces.com/wp-content/uploads/2023/06/1-sd54gsdy4jh-060923100334.jpg",
     name: "Kyle Pew, Office Newb",
     heading: "Microsoft Excel - Excel from Beginner to Advanced",
@@ -161,6 +167,7 @@ const HomePage = [
   {
     id: 16,
     category: "pyhonDataSecond",
+    courses:"",
     img: "https://tse4.mm.bing.net/th?id=OIP.64ZsGgF2D7wdFpqgEfdxGAHaEK&pid=Api&P=0&h=180",
     name: "365 Careers",
     heading: "The Data Science Course: Complete Data Science Bootcamp 2023",
@@ -181,6 +188,7 @@ const HomePage = [
   {
     id: 17,
     category: "pyhonDataSecond",
+    courses:"",
     img: "https://couponos99.com/wp-content/uploads/2021/10/Java-Programming-Masterclass-updated-to-Java-17.jpg",
     name: "Tim Buchalka",
     heading: "Java 17 Masterclass: Start Coding in 2023",
@@ -199,25 +207,25 @@ const HomePage = [
   },
   {
     id: 18,
-    category: "developement",
+    category:"developement",
     img: "https://s.udemycdn.com/home/top-categories/lohp-category-design-v2.jpg",
     name: "Design",
   },
   {
     id: 19,
-    category: "developement",
+    category:"developement",
     img: "https://s.udemycdn.com/home/top-categories/lohp-category-development-v2.jpg",
     name: "Development",
   },
   {
     id: 20,
-    category: "developement",
+    category:"developement",
     img: "https://s.udemycdn.com/home/top-categories/lohp-category-marketing-v2.jpg",
     name: "Marketing",
   },
   {
     id: 21,
-    category: "developement",
+    category:"developement",
     img: "https://s.udemycdn.com/home/top-categories/lohp-category-it-and-software-v2.jpg",
     name: "IT and Software",
   },
@@ -229,26 +237,27 @@ const HomePage = [
   },
   {
     id: 23,
-    category: "developement",
+    category:"developement",
     img: "https://s.udemycdn.com/home/top-categories/lohp-category-business-v2.jpg",
     name: "Business",
   },
   {
     id: 24,
-    category: "developement",
+    category:"developement",
     img: "https://s.udemycdn.com/home/top-categories/lohp-category-photography-v2.jpg",
     name: "Photography",
   },
   {
     id: 25,
-    category: "developement",
+    category:"developement",
     img: "https://s.udemycdn.com/home/top-categories/lohp-category-music-v2.jpg",
     name: "Music",
   },
 
   {
     id: 26,
-    category: "Design",
+    category:"Design",
+    courses:"",
     img: "https://tse1.mm.bing.net/th?id=OIP.Zek5pwH5dSRwTiZ0ZNmDkwHaEK&pid=Api&P=0&h=180",
     name: "Framework Tech",
     heading: "Photoshop CS6 Crash Course",
@@ -266,7 +275,8 @@ const HomePage = [
   },
   {
     id: 27,
-    category: "Design",
+    category:"Design",
+    courses:"",
     img: "https://1.bp.blogspot.com/-1jNjtsLUnTk/Xk_DDl3NnHI/AAAAAAAAAss/gk92CYTUeZ04uwZ9ynfJKJL8N_NKUCfMgCLcBGAsYHQ/s640/Photoshop-Master-Course-From-Beginner-to-Photoshop-Pro.jpg",
     name: "Hum Collingbourne",
     heading: "Photoshop Master Course: From Beginner to Photoshop Pro",
@@ -284,7 +294,8 @@ const HomePage = [
   },
   {
     id: 28,
-    category: "Design",
+    category:"Design",
+    courses:"",
     img: "https://tse3.mm.bing.net/th?id=OIP.rsEJ6wF6yadelEQieQq-cwHaDt&pid=Api&P=0&h=180",
     name: "John Purcell",
     heading: "Essential Skills for Designers - Masking",
@@ -302,7 +313,8 @@ const HomePage = [
   },
   {
     id: 29,
-    category: "Design",
+    category:"Design",
+    courses:"",
     img: "https://tse1.mm.bing.net/th?id=OIP.ZdWfapA0HjgZ0DRhA7wbUgHaFj&pid=Api&P=0&h=180",
     name: "Klob TAulien",
     heading: "Adobe Audition CC Tutorial - Audition Made Easy",
@@ -321,7 +333,8 @@ const HomePage = [
 
   {
     id: 30,
-    category: "Design",
+    category:"Design",
+    courses:"",
     img: "https://tse3.mm.bing.net/th?id=OIP.iX7PmUEcu3Toumks6bC8hQHaEK&pid=Api&P=0&h=180",
     name: "Academind by Maximilian Schwarzmüller",
     heading: "The Ultimate Drawing Course - Beginner to Advanced",
@@ -337,7 +350,8 @@ const HomePage = [
   },
   {
     id: 31,
-    category: "Design",
+    category:"Design",
+    courses:"",
     img: "https://online-courses.club/wp-content/uploads/2019/04/Character-Art-School-Complete-Character-Drawing-Course-Udemy.jpg",
     name: "Colt Steele",
     heading: "Character Art School: Complete Character Drawing",
@@ -353,7 +367,8 @@ const HomePage = [
   },
   {
     id: 32,
-    category: "Design",
+    category:"Design",
+    courses:"",
     img: "https://tse3.explicit.bing.net/th?id=OIP.oQCk032vAR8thEfF-PtzvAHaEK&pid=Api&P=0&h=180",
     name: "Maximilian Schwarzmuller",
     heading: "Complete Blender Creator: Learn 3D Modelling for Beginners",
@@ -369,7 +384,8 @@ const HomePage = [
   },
   {
     id: 33,
-    category: "Design",
+    category:"Design",
+    courses:"",
     img: "https://tse2.mm.bing.net/th?id=OIP.b6rl7a8rZbc0UKwyvfE0gAHaEK&pid=Api&P=0&h=180",
     name: "Klob TAulien",
     heading:
@@ -390,6 +406,7 @@ const HomePage = [
   {
     id: 34,
     category: "Design",
+    courses:"",
     img: "https://tse3.mm.bing.net/th?id=OIP.o-B-GLvhsa66cgx-TkWuRQHaEK&pid=Api&P=0&h=180",
     name: "Colt Steele",
     heading: "Design Thinking in 3 Steps",
@@ -407,6 +424,7 @@ const HomePage = [
   {
     id: 35,
     category: "Design",
+    courses:"",
     img: "https://tse2.mm.bing.net/th?id=OIF.NhdIEpw2GcN5W0R5unbYhA&pid=Api&P=0&h=180",
     name: "Maximilian Schwarzmuller",
     heading: "The Complete Adobe After Effects Bootcamp: Basic to Advanced",
@@ -424,6 +442,7 @@ const HomePage = [
   {
     id: 36,
     category: "Design",
+    courses:"",
     img: "https://www.divineworks.biz/wp-content/uploads/2022/05/The-complete-AutoCAD-2018-21-course-V.jpg",
     name: "Klob TAulien",
     heading: "SThe complete AutoCAD 2018-21 course",
@@ -442,7 +461,7 @@ const HomePage = [
   {
     id: 37,
     category: "Design",
-    subcategory: "webDesign",
+    courses:"webDesign",
     img: "https://tse3.mm.bing.net/th?id=OIP.-kSOCppRYi0dcYtILWZdmgHaEK&pid=Api&P=0&h=180",
     name: "Framework Tech",
     heading: "Web Design for Beginners: Real World Coding in HTML & CSS",
@@ -461,7 +480,7 @@ const HomePage = [
   {
     id: 38,
     category: "Design",
-    subcategory: "webDesign",
+    courses:"webDesign",
     img: "https://tse1.mm.bing.net/th?id=OIP.LySxrFXq3z6BIiC53hn1RAHaEK&pid=Api&P=0&h=180",
     name: "Hum Collingbourne",
     heading: "AngularJS Crash Course for Beginners",
@@ -480,7 +499,7 @@ const HomePage = [
   {
     id: 39,
     category: "Design",
-    subcategory: "webDesign",
+    courses:"webDesign",
     img: "https://sanet.pics/storage-9/0823/7Ye7SdfB1YHtWueynjOWN75oTS81ElHm.jpg",
     heading: "WordPress: Create Stunning Wordpress Websites for Business",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -498,7 +517,7 @@ const HomePage = [
   {
     id: 40,
     category: "Design",
-    subcategory: "webDesign",
+    courses:"webDesign",
     img: "https://i.ytimg.com/vi/6WjXVltHL3E/maxresdefault.jpg",
     heading: "Modern Web Design HTML5 CSS3 beginners guide to Websites",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -516,7 +535,7 @@ const HomePage = [
   {
     id: 41,
     category: "Design",
-    subcategory: "webDesign",
+    courses:"webDesign",
     img: "https://tse4.mm.bing.net/th?id=OIP.fSDaxyI7CWQ3BRCpxh5jFAHaEK&pid=Api&P=0&h=180",
     name: "Klob TAulien",
     heading: "Learn Photoshop, Web Design & Profitable Freelancing 2023",
@@ -536,7 +555,7 @@ const HomePage = [
   {
     id: 42,
     category: "Design",
-    subcategory: "webDesign",
+    courses:"webDesign",
     img: "https://www.courseduck.com/programming/figma/images/web-design-figma-webflow-freelancing.jpg",
     name: "Academind by Maximilian Schwarzmüller",
     heading: "Complete Web Design: from Figma to Webflow to Freelancing",
@@ -554,7 +573,7 @@ const HomePage = [
   {
     id: 43,
     category: "Design",
-    subcategory: "webDesign",
+    courses:"webDesign",
     img: "https://tse4.mm.bing.net/th?id=OIP.i0zuoft3RPcdy1Lchs6LnAHaEK&pid=Api&P=0&h=180",
     name: "Colt Steele",
     heading: "DESIGN RULES: Principles + Practices for Great UI Design",
@@ -571,7 +590,7 @@ const HomePage = [
   {
     id: 44,
     category: "Design",
-    subcategory: "webDesign",
+    courses:"webDesign",
     img: "https://tse3.explicit.bing.net/th?id=OIP.oQCk032vAR8thEfF-PtzvAHaEK&pid=Api&P=0&h=180",
     name: "Maximilian Schwarzmuller",
     heading: "Complete Blender Creator: Learn 3D Modelling for Beginners",
@@ -588,7 +607,7 @@ const HomePage = [
   {
     id: 45,
     category: "Design",
-    subcategory: "gameDesign",
+    courses:"gameDesign",
     img: "https://tse4.mm.bing.net/th?id=OIP.pBLWh98flgeh1DwLi9bG-wHaEb&pid=Api&P=0&h=180",
     name: "Klob TAulien",
     heading: "Introduction to Game Localization",
@@ -608,7 +627,7 @@ const HomePage = [
   {
     id: 46,
     category: "Design",
-    subcategory: "gameDesign",
+    courses:"gameDesign",
     img: "https://tse4.mm.bing.net/th?id=OIP.8POl6iRLtztYO6cHLm1HNQHaEK&pid=Api&P=0&h=180",
     name: "Klob TAulien",
     heading: "Pixel art for Video games",
@@ -627,7 +646,7 @@ const HomePage = [
   {
     id: 47,
     category: "Design",
-    subcategory: "gameDesign",
+    courses:"gameDesign",
     img: "https://pixelplex.io/wp-content/uploads/2021/11/ai-in-gaming-main-1600-1.jpg",
     name: "Klob TAulien",
     heading: "The Game Design and AI Master Class Beginner to Expert",
@@ -646,7 +665,7 @@ const HomePage = [
   {
     id: 48,
     category: "Design",
-    subcategory: "gameDesign",
+    courses:"gameDesign",
     img: "https://img.g2a.com/700x394/1x1x1/dragon-ball-fighterz/5a37b34e5bafe364a16a00e2",
     heading: "Digitally Painting Light and Color: Amateur to Master",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -664,7 +683,7 @@ const HomePage = [
   {
     id: 49,
     category: "Design",
-    subcategory: "gameDesign",
+    courses:"gameDesign",
     img: "https://tse3.mm.bing.net/th?id=OIP.2XUOGOHp-WtZf4qfucaJjQHaEK&pid=Api&P=0&h=180",
     heading: "Learn Professional 2D Game Graphic Design in Photoshop",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -682,7 +701,7 @@ const HomePage = [
   {
     id: 50,
     category: "Design",
-    subcategory: "gameDesign",
+    courses:"gameDesign",
     img: "https://i.ytimg.com/vi/hgsFQ1DRwI0/maxresdefault.jpg",
     name: "Klob TAulien",
     heading: "Learn Professional Pixel Art & Animation for Games",
@@ -700,7 +719,7 @@ const HomePage = [
   {
     id: 51,
     category: "Design",
-    subcategory: "gameDesign",
+    courses:"gameDesign",
     img: "https://online-courses.club/wp-content/uploads/2019/02/Learn-Professional-2D-Game-Asset-Graphic-Design-in-Photoshop-Udemy.jpg",
     heading: "Learn Professional 2D Game Asset Graphic Design in Photoshop",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -718,7 +737,7 @@ const HomePage = [
   {
     id: 52,
     category: "Design",
-    subcategory: "gameDesign",
+    courses:"gameDesign",
     img: "https://tse2.mm.bing.net/th?id=OIP.8-bY7vZW44wxA9rn4QwioAHaEK&pid=Api&P=0&h=180",
     heading: "Blender 2.8 Game Character Creation",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -735,7 +754,7 @@ const HomePage = [
   {
     id: 53,
     category: "Design",
-    subcategory: "animation",
+    courses:"animation",
     img: "https://tse1.mm.bing.net/th?id=OIP.bkTiv4D_xvH8EVVfROR6eAHaEK&pid=Api&P=0&h=180",
     name: "Klob TAulien",
     heading: "Master SketchUp - A Definitive Guide From Infinite Skills",
@@ -754,7 +773,7 @@ const HomePage = [
   {
     id: 54,
     category: "Design",
-    subcategory: "animation",
+    courses:"animation",
     img: "https://3dmaxfarsi.com/wp-content/uploads/2020/05/intro-architectural-visualization-3ds-max-vray.jpg",
     heading: "3ds Max + V-Ray: 3ds Max PRO in 6 hrs",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -764,7 +783,7 @@ const HomePage = [
     headinghover: "3ds Max + V-Ray: 3ds Max PRO in 6 hrs",
     totalhour: "67 total hoursAll LevelsSubtitles",
     about:
-      "3ds Max intro course: 3Ds Max and V-Ray for creating 3D architectural imagery, from beginner to advanced",
+      "3ds Max intro courses: 3Ds Max and V-Ray for creating 3D architectural imagery, from beginner to advanced",
     para: "Learn 3ds Max + V-Ray from scratch by creating your first arch viz project in the first 6 hrs of the course",
     predata:
       "Take your rendering knowledge from basic to pro by following along with multiple projects using a pro workflow",
@@ -773,7 +792,7 @@ const HomePage = [
   {
     id: 55,
     category: "Design",
-    subcategory: "animation",
+    courses:"animation",
     img: "https://www.solvusoft.com/file-extensions/images/software/large/310_navisworks.png",
     heading: "The Complete Autodesk Navisworks Course (BIM Tool)",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -791,7 +810,7 @@ const HomePage = [
   {
     id: 56,
     category: "Design",
-    subcategory: "animation",
+    courses:"animation",
     img: "https://tse4.mm.bing.net/th?id=OIP.FNmHCkkogc7QFgC1AJb7UAHaEK&pid=Api&P=0&h=180",
     heading: "SOLIDWORKS: Become a Certified Associate Today (CSWA)",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -809,7 +828,7 @@ const HomePage = [
   {
     id: 57,
     category: "Design",
-    subcategory: "animation",
+    courses:"animation",
     img: "https://tse1.mm.bing.net/th?id=OIP.bkTiv4D_xvH8EVVfROR6eAHaEK&pid=Api&P=0&h=180",
     name: "Klob TAulien",
     heading: "The Blender 2.8 Encyclopedia",
@@ -827,7 +846,7 @@ const HomePage = [
   {
     id: 58,
     category: "Design",
-    subcategory: "animation",
+    courses:"animation",
     img: "https://tse4.mm.bing.net/th?id=OIP.chtm_sDYgD6sxvI8wF--VwHaEK&pid=Api&P=0&h=180",
     heading: "Designing for 3D Printing with Fusion 360",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -846,7 +865,7 @@ const HomePage = [
   {
     id: 59,
     category: "Design",
-    subcategory: "animation",
+    courses:"animation",
     img: "https://tse3.mm.bing.net/th?id=OIP.ZLTg5V3CYXrXuQPQwSd5UwHaEK&pid=Api&P=0&h=180",
     heading: "Manga Art School: Complete How to Draw Anime & Manga Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -864,7 +883,7 @@ const HomePage = [
   {
     id: 60,
     category: "Design",
-    subcategory: "animation",
+    courses:"animation",
     img: "https://tse1.mm.bing.net/th?id=OIP.mcmntUzmpE_q9brgsmgJMgHaEK&pid=Api&P=0&h=180",
     heading: "Complete Houdini FX Bootcamp",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -882,7 +901,7 @@ const HomePage = [
   {
     id: 61,
     category: "Design",
-    subcategory: "fashiondesign",
+    courses:"fashiondesign",
     img: "https://tse2.mm.bing.net/th?id=OIP.cNmm7YyAkR1f6Hx6KSBvxgHaEK&pid=Api&P=0&h=180",
     name: "Klob TAulien",
     heading: "Learn to draw fashion with Adobe Illustrator CC - Beginners",
@@ -901,7 +920,7 @@ const HomePage = [
   {
     id: 62,
     category: "Design",
-    subcategory: "fashiondesign",
+    courses:"fashiondesign",
     img: "https://tse4.mm.bing.net/th?id=OIF.%2bGPB0KUxMBZeXdx67KK8%2bw&pid=Api&P=0&h=180",
     heading: "Look Your VERY best – Learn about Color, Style & Fashion",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -920,7 +939,7 @@ const HomePage = [
   {
     id: 63,
     category: "Design",
-    subcategory: "fashiondesign",
+    courses:"fashiondesign",
     img: "https://i.ytimg.com/vi/yqEyO6cwvUw/maxresdefault.jpg",
     heading: "How To Create A Fashion Collection and Launch Your Own Brand",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -940,7 +959,7 @@ const HomePage = [
   {
     id: 64,
     category: "Design",
-    subcategory: "fashiondesign",
+    courses:"fashiondesign",
     img: "https://coursehorse.imgix.net/images/course/3035/main/sketching-.jpg?auto=format%2Cenhance%2Ccompress&crop=entropy&fit=crop&h=630&ixlib=php-1.2.1&q=90&w=1200",
     heading: "Sketching for Fashion Design ~ Beginner Course for Designers",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -960,7 +979,7 @@ const HomePage = [
   {
     id: 65,
     category: "Design",
-    subcategory: "fashiondesign",
+    courses:"fashiondesign",
     img: "https://tse2.mm.bing.net/th?id=OIP.ChNhETXGPOuwkqZyQ_KMNAHaEK&pid=Api&P=0&h=180",
     heading: "Pattern Cutting & Making for Absolute Beginners - Fashion",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -978,7 +997,7 @@ const HomePage = [
   {
     id: 66,
     category: "Design",
-    subcategory: "fashiondesign",
+    courses:"fashiondesign",
     img: "https://tse4.mm.bing.net/th?id=OIP._8_hU9UOW04nFisUNxbuHgHaEK&pid=Api&P=0&h=180",
     heading: "Become a fashion buyer - learn the essentials",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -996,7 +1015,7 @@ const HomePage = [
   {
     id: 67,
     category: "Design",
-    subcategory: "fashiondesign",
+    courses:"fashiondesign",
     img: "https://tse1.mm.bing.net/th?id=OIP.oFs7yYpaD_Dt2BrUw42WjAHaEK&pid=Api&P=0&h=180",
     heading: "Learn to draw fashion with Adobe Illustrator CC Intermediate",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1013,7 +1032,7 @@ const HomePage = [
   {
     id: 68,
     category: "Design",
-    subcategory: "fashiondesign",
+    courses:"fashiondesign",
     img: "https://tse1.mm.bing.net/th?id=OIP.yBIu7JseopjTD7rpgth7BQHaFP&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Create Beautiful Fashion",
@@ -1031,7 +1050,7 @@ const HomePage = [
   {
     id: 69,
     category: "Design",
-    subcategory: "otherdesign",
+    courses:"otherdesign",
     img: "https://tse1.mm.bing.net/th?id=OIP.PhhvXGuPec5n994nMYn3OAHaE6&pid=Api&P=0&h=180",
     name: "Klob TAulien",
     heading: "Soundscaping for health, relationships and success",
@@ -1050,7 +1069,7 @@ const HomePage = [
   {
     id: 70,
     category: "Design",
-    subcategory: "otherdesign",
+    courses:"otherdesign",
     img: "https://tse1.mm.bing.net/th?id=OIP.8PTGqU4EYpf9oJSNBmIF_AHaEL&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     price: 4199,
@@ -1068,7 +1087,7 @@ const HomePage = [
   {
     id: 71,
     category: "Design",
-    subcategory: "otherdesign",
+    courses:"otherdesign",
     img: "https://tse4.mm.bing.net/th?id=OIP.8zuJE9lL7G9Iir1wcu5zfgHaEK&pid=Api&P=0&h=180",
     heading: "Learn to Create Pixel Art for your Games",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1086,7 +1105,7 @@ const HomePage = [
   {
     id: 72,
     category: "Design",
-    subcategory: "otherdesign",
+    courses:"otherdesign",
     img: "https://pixhost.icu/avaxhome/ed/0f/00670fed.jpg",
     heading: "Electrical Power Equipment",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1104,7 +1123,7 @@ const HomePage = [
   {
     id: 73,
     category: "Design",
-    subcategory: "otherdesign",
+    courses:"otherdesign",
     img: "https://tse4.mm.bing.net/th?id=OIP.Kg1F902PU-nNQ9N2l6B6oQHaC_&pid=Api&P=0&h=180",
     heading: "Mastering ANSYS CFD",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1123,7 +1142,7 @@ const HomePage = [
   {
     id: 74,
     category: "Design",
-    subcategory: "otherdesign",
+    courses:"otherdesign",
     img: "https://tse3.mm.bing.net/th?id=OIP.7XAjnZUjhM8PcorEE7uJTgHaEg&pid=Api&P=0&h=180",
     heading: "Digital Landscapes : Painting Environments with Photoshop",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1141,7 +1160,7 @@ const HomePage = [
   {
     id: 75,
     category: "Design",
-    subcategory: "otherdesign",
+    courses:"otherdesign",
     img: "https://i.pinimg.com/originals/d5/25/d9/d525d9c3a1536985a37359c6d14d431b.jpg",
     heading: "Concept Art Architecture",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1159,7 +1178,7 @@ const HomePage = [
   {
     id: 76,
     category: "Design",
-    subcategory: "otherdesign",
+    courses:"otherdesign",
     img: "http://www.automotiveengineeringhq.com/wp-content/uploads/2014/07/Geometrical-Gears-from-Engineering-Drawing.jpg",
     heading: "Geometric Dimensioning and Tolerancing (GD&T) : Basics",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1177,7 +1196,7 @@ const HomePage = [
   {
     id: 77,
     category: "Business",
-    subcategory: "Business",
+    courses:"Business",
     img: "https://i.pinimg.com/originals/07/c7/20/07c720836bb78b1ee7f56b7d68de9518.jpg",
     name: "Klob TAulien",
     heading: "Powerful Business Writing: How to Write Concisely",
@@ -1196,7 +1215,7 @@ const HomePage = [
   {
     id: 78,
     category: "Business",
-    subcategory: "Business",
+    courses:"Business",
     img: "https://www.bestchoiceschools.com/wp-content/uploads/2021/04/shutterstock_1354767662-1536x1024.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Chief Financial Officer Leadership Program",
@@ -1215,7 +1234,7 @@ const HomePage = [
   {
     id: 79,
     category: "Business",
-    subcategory: "Business",
+    courses: "Business",
     img: "https://tse1.mm.bing.net/th?id=OIP._khJ_e9CEbepqQCrPQ5zngHaGN&pid=Api&P=0&h=180",
     heading: "Sales and Persuasion Skills for Startups",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1233,7 +1252,7 @@ const HomePage = [
   {
     id: 80,
     category: "Business",
-    subcategory: "Business",
+    courses: "Business",
     img: "https://pixhost.icu/avaxhome/ed/0f/00670fed.jpg",
     heading: "Master Your Mindset & Brain: Framestorm Your Way to Success",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1251,7 +1270,7 @@ const HomePage = [
   {
     id: 81,
     category: "Business",
-    subcategory: "Business",
+    courses: "Business",
     img: "https://tse1.mm.bing.net/th?id=OIP.CyY3ku9xkFe_zAgpG89UxgHaHK&pid=Api&P=0&h=180",
     heading: "Microsoft Power BI - The Practical Guide 2023",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1270,7 +1289,7 @@ const HomePage = [
   {
     id: 82,
     category: "Business",
-    subcategory: "Business",
+    courses: "Business",
     img: "https://tse3.mm.bing.net/th?id=OIP.AlRm_r5VC3knCsp_LF4X8gHaE7&pid=Api&P=0&h=180",
     heading: "Write Better Emails: Tactics for Smarter Team Communication",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1288,7 +1307,7 @@ const HomePage = [
   {
     id: 83,
     category: "Business",
-    subcategory: "Business",
+    courses: "Business",
     img: "https://tse4.mm.bing.net/th?id=OIP.w20KRb_cb1rTIOIu5YFJfwHaEK&pid=Api&P=0&h=180",
     heading: "PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1306,7 +1325,7 @@ const HomePage = [
   {
     id: 84,
     category: "Business",
-    subcategory: "Business",
+    courses: "Business",
     img: "https://tse3.mm.bing.net/th?id=OIP.FCdGoKNiJPAMifaGPOTzgQHaEK&pid=Api&P=0&h=180",
     heading: "SQL - MySQL for Data Analytics and Business Intelligence",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1324,7 +1343,7 @@ const HomePage = [
   {
     id: 85,
     category: "Business",
-    subcategory: "Communication",
+    courses: "Communication",
     img: "https://cf.shopee.co.th/file/sg-11134201-22120-hiw94byayzkvaa",
     name: "Klob TAulien",
     heading: "Writing With Flair: How To Become An Exceptional Writer",
@@ -1344,7 +1363,7 @@ const HomePage = [
   {
     id: 86,
     category: "Business",
-    subcategory: "Communication",
+    courses: "Communication",
     img: "https://www.bestchoiceschools.com/wp-content/uploads/2021/04/shutterstock_1354767662-1536x1024.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Conscious Listening",
@@ -1363,7 +1382,7 @@ const HomePage = [
   {
     id: 87,
     category: "Business",
-    subcategory: "Communication",
+    courses: "Communication",
     img: "https://tse2.mm.bing.net/th?id=OIP.L3zz7uUJ1SqUbCSQxfgPbAAAAA&pid=Api&P=0&h=180",
     heading: "Communicate for Business: Write, Email, Close the Loop",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1382,7 +1401,7 @@ const HomePage = [
   {
     id: 88,
     category: "Business",
-    subcategory: "Communication",
+    courses: "Communication",
     img: "https://coursecouponclub.com/wp-content/uploads/2021/04/1366348_9ff2_5.jpg",
     heading: "Cross-Cultural Communication: How To Flex Your Style",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1400,7 +1419,7 @@ const HomePage = [
   {
     id: 89,
     category: "Business",
-    subcategory: "Communication",
+    courses: "Communication",
     img: "https://tse2.mm.bing.net/th?id=OIP.Gvrj5j4OPgm1CsV3tgFgPwHaEK&pid=Api&P=0&h=180",
     heading: "Active Listening: You Can Be a Great Listener",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1419,7 +1438,7 @@ const HomePage = [
   {
     id: 90,
     category: "Business",
-    subcategory: "Communication",
+    courses: "Communication",
     img: "https://i.pinimg.com/736x/02/36/16/023616d73a02540f8da55604a3701fd5.jpg",
     heading: "The Complete Communication Skills Master Class for Life",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1438,7 +1457,7 @@ const HomePage = [
   {
     id: 91,
     category: "Business",
-    subcategory: "Management",
+    courses: "Management",
     img: "https://www.master-of-finance.org/wp-content/uploads/2021/05/chief-financial-officer.jpg",
     heading: "Chief Financial Officer Leadership Program",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1457,7 +1476,7 @@ const HomePage = [
   {
     id: 92,
     category: "Business",
-    subcategory: "Management",
+    courses: "Management",
     img: "https://tse3.mm.bing.net/th?id=OIP.cO2G_bd5MySM4GWzP4786gHaFJ&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "QMS Auditor / Lead Auditor Course",
@@ -1475,7 +1494,7 @@ const HomePage = [
   {
     id: 93,
     category: "Business",
-    subcategory: "Management",
+    courses: "Management",
     img: "https://tse4.mm.bing.net/th?id=OIP.3Eu1T7s7LT4B3LGYXm60gwHaE8&pid=Api&P=0&h=180",
     heading: "Supervisor Leadership Skills for a Safe Workplace",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1494,7 +1513,7 @@ const HomePage = [
   {
     id: 94,
     category: "Business",
-    subcategory: "Management",
+    courses: "Management",
     img: "https://tse1.mm.bing.net/th?id=OIP.zL5LHNZaeg7w0Oibl8rxNQHaEK&pid=Api&P=0&h=180",
     heading: "How to Manage & Influence Your Virtual Team",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1512,7 +1531,7 @@ const HomePage = [
   {
     id: 95,
     category: "Business",
-    subcategory: "Management",
+    courses: "Management",
     img: "https://static.wixstatic.com/media/88b756_f20983f6d0c840b5a2526bdcb4e53b4d~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     heading: "Managing Change: Learn to thrive through change.",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1530,7 +1549,7 @@ const HomePage = [
   {
     id: 96,
     category: "Business",
-    subcategory: "Management",
+    courses: "Management",
     img: "https://1.bp.blogspot.com/-qewIHhaBVWs/X_4HWcQYsNI/AAAAAAAAPgg/-IdoYV6MpusCriCNztPuyDvsrG-r8US2wCLcBGAsYHQ/w640-h361/Consulting%2BApproach%2Bto%2BProblem%2BSolving.jpg",
     heading: "Solving Business Probleam",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1550,7 +1569,7 @@ const HomePage = [
   {
     id: 97,
     category: "Business",
-    subcategory: "Business Strategy ",
+    courses: "Business Strategy ",
     img: "https://tse4.mm.bing.net/th?id=OIP.Kh9hPgaSBz4edpAwZuJOZAHaEL&pid=Api&P=0&h=180",
     heading: "International Expansion: A Blueprint for Success",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1569,7 +1588,7 @@ const HomePage = [
   {
     id: 98,
     category: "Business",
-    subcategory: "Business Strategy ",
+    courses: "Business Strategy ",
     img: "https://tse4.mm.bing.net/th?id=OIP.Z86aerTMRHzwZ1r4BQjP3wHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "How to Write the Ultimate 1 Page Strategic Business Plan",
@@ -1587,7 +1606,7 @@ const HomePage = [
   {
     id: 99,
     category: "Business",
-    subcategory: "Business Strategy ",
+    courses: "Business Strategy ",
     img: "https://tse4.mm.bing.net/th?id=OIP.E2fiexyAXL-HwRRvuQs0CAHaEK&pid=Api&P=0&h=180",
     heading: "How To Write A Business Plan And A Winning Business Model",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1606,7 +1625,7 @@ const HomePage = [
   {
     id: 100,
     category: "Business",
-    subcategory: "Business Strategy ",
+    courses: "Business Strategy ",
     img: "https://www.seekahost.com/wp-content/uploads/2020/01/virtual-team-management.jpg",
     heading: "How to Manage & Influence Your Virtual Team",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1624,7 +1643,7 @@ const HomePage = [
   {
     id: 101,
     category: "Business",
-    subcategory: "Business Strategy ",
+    courses: "Business Strategy ",
     img: "https://tse3.mm.bing.net/th?id=OIP.nXdc66CrU85wU653YmCYfgHaEo&pid=Api&P=0&h=180",
     heading: "Defining a Digital Transformation Roadmap.",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1643,7 +1662,7 @@ const HomePage = [
   {
     id: 102,
     category: "Business",
-    subcategory: "Management",
+    courses: "Management",
     img: "https://image.slidesharecdn.com/bmi-170512173509/95/business-model-innovation-1-638.jpg?cb=1494610557",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Business Model Innovation: Differentiate & Grow Your Company",
@@ -1662,7 +1681,7 @@ const HomePage = [
   {
     id: 103,
     category: "Business",
-    subcategory: "Operations Courses",
+    courses: "Operations Courses",
     img: "https://tse4.mm.bing.net/th?id=OIP.UrSc-6-or4f3G7oNSF3fsQHaEK&pid=Api&P=0&h=180",
     heading: "Customer Success | Profit from the Power of Your Customers",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1679,7 +1698,7 @@ const HomePage = [
   {
     id: 104,
     category: "Business",
-    subcategory: "Operations Courses",
+    courses: "Operations Courses",
     img: "https://tse3.mm.bing.net/th?id=OIP.F2YFiVzvEHcV6ljljANqSQHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Customer Success | How to Understand Your Customers",
@@ -1696,7 +1715,7 @@ const HomePage = [
   {
     id: 105,
     category: "Business",
-    subcategory: "Operations Courses",
+    courses: "Operations Courses",
     img: "https://cdn.slidesharecdn.com/ss_thumbnails/customersuccessoverview-170612121118-thumbnail-4.jpg?cb=1497269663",
     heading: "Customer Success | How to Put Your Customers First",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1714,7 +1733,7 @@ const HomePage = [
   {
     id: 106,
     category: "Business",
-    subcategory: "Operations Courses ",
+    courses: "Operations Courses ",
     img: "https://tse2.mm.bing.net/th?id=OIF.X%2bnBLYl43wcEksIDDNxOtg&pid=Api&P=0&h=180",
     heading: "Customer Success | How to Listen to Today's Customers",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1731,7 +1750,7 @@ const HomePage = [
   {
     id: 107,
     category: "Business",
-    subcategory: "Operations Courses ",
+    courses: "Operations Courses ",
     img: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Robotic-Process-Automation.jpeg",
     heading: "Robotic Process Automation: RPA Overview + Build a Robot",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1749,7 +1768,7 @@ const HomePage = [
   {
     id: 108,
     category: "Business",
-    subcategory: "Operations Courses",
+    courses: "Operations Courses",
     img: "https://tse1.mm.bing.net/th?id=OIP.w-4GSSVUb0L1r5RaevZ79gHaE7&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Business Model Innovation: Differentiate & Grow Your Company",
@@ -1768,7 +1787,7 @@ const HomePage = [
   {
     id: 109,
     category: "Business",
-    subcategory: "Human Resources",
+    courses: "Human Resources",
     img: "https://www.trinsictech.com/wp-content/uploads/2020/02/HIPAA-compliant.jpeg",
     heading: "Understanding and Complying with HIPAA",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1786,7 +1805,7 @@ const HomePage = [
   {
     id: 110,
     category: "Business",
-    subcategory: "Human Resources",
+    courses: "Human Resources",
     img: "https://tse4.mm.bing.net/th?id=OIP.lf6aito0BTAL3lJn1gVh0AHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "World-Class HR: 21st Century Talent Management",
@@ -1804,7 +1823,7 @@ const HomePage = [
   {
     id: 111,
     category: "Business",
-    subcategory: "Human Resources",
+    courses: "Human Resources",
     img: "https://www.expatica.com/app/uploads/2020/07/colleagues-discussion-1536x1024.jpg",
     heading: "International Business Etiquette",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1821,7 +1840,7 @@ const HomePage = [
   {
     id: 112,
     category: "Business",
-    subcategory: "Human Resources",
+    courses: "Human Resources",
     img: "https://tse1.mm.bing.net/th?id=OIP.vAzTyiS8jzeqk2rivgqcXwHaE8&pid=Api&P=0&h=180",
     heading: "Interviewing Skills: Conducting Job Interviews",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1839,7 +1858,7 @@ const HomePage = [
   {
     id: 113,
     category: "Business",
-    subcategory: "Human Resources",
+    courses: "Human Resources",
     img: "https://tse4.mm.bing.net/th?id=OIP.wbbMo5GLNoXhIksGRorVRQHaEK&pid=Api&P=0&h=180",
     heading: "Workplace Communication: Effectively Deliver Criticism",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1857,7 +1876,7 @@ const HomePage = [
   {
     id: 114,
     category: "Business",
-    subcategory: "Human Resources",
+    courses: "Human Resources",
     img: "https://tse3.mm.bing.net/th?id=OIP.ltuLrVu99LiCaMAYUgeSBgHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Diversity, Equity, and Inclusion: A Beginner’s Guide",
@@ -1877,7 +1896,7 @@ const HomePage = [
   {
     id: 115,
     category: "Finance & Accounting",
-    subcategory: "Finance & Accounting",
+    courses: "Finance & Accounting",
     img: "https://tse2.mm.bing.net/th?id=OIP.yNM3IXP8sdJ49Fd5TWj63QHaFj&pid=Api&P=0&h=180",
     heading: "The Complete Introduction To Accounting and Finance",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1895,7 +1914,7 @@ const HomePage = [
   {
     id: 116,
     category: "Finance & Accounting",
-    subcategory: "Finance & Accounting",
+    courses: "Finance & Accounting",
     img: "https://tse4.mm.bing.net/th?id=OIP.ZphyWrRzgAtkekZyUFEqggHaEH&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Options Trading Basics (3-Course Bundle)",
@@ -1913,7 +1932,7 @@ const HomePage = [
   {
     id: 117,
     category: "Finance & Accounting",
-    subcategory: "Finance & Accounting",
+    courses: "Finance & Accounting",
     img: "https://thumbs.dreamstime.com/b/young-business-managers-crew-working-new-startup-project-labtop-office-wood-table-typing-keyboard-texting-message-analyze-118776352.jpg",
     heading: "Business Analysis: Working with Use Cases",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1931,7 +1950,7 @@ const HomePage = [
   {
     id: 118,
     category: "Finance & Accounting",
-    subcategory: "Finance & Accounting",
+    courses: "Finance & Accounting",
     img: "https://ecoursedeals.com/wp-content/uploads/2018/08/48841_9110_7.jpg",
     heading: "Accounting in 60 Minutes - A Brief Introduction",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1949,7 +1968,7 @@ const HomePage = [
   {
     id: 119,
     category: "Finance & Accounting",
-    subcategory: "Finance & Accounting",
+    courses: "Finance & Accounting",
     img: "https://tse4.mm.bing.net/th?id=OIP.KXzm-_azo-vfr-SCoVyb3AHaJ4&pid=Api&P=0&h=180",
     heading: "The Complete Foundation Stock Trading Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -1968,7 +1987,7 @@ const HomePage = [
   {
     id: 120,
     category: "Finance & Accounting",
-    subcategory: "Finance & Accounting",
+    courses: "Finance & Accounting",
     img: "https://tse3.mm.bing.net/th?id=OIP.8Lr2-A_vfi1W4kK67Ac7HwHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "The Complete Financial Analyst Training & Investing Course",
@@ -1986,7 +2005,7 @@ const HomePage = [
   {
     id: 121,
     category: "Finance & Accounting",
-    subcategory: "Book keeping",
+    courses: "Book keeping",
     img: "https://tse4.mm.bing.net/th?id=OIP.HHDVm4xN6N5kimIfEQ5HlwHaEK&pid=Api&P=0&h=180",
     heading: "Accounting: From Beginner to Advanced!",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2004,7 +2023,7 @@ const HomePage = [
   {
     id: 122,
     category: "Finance & Accounting",
-    subcategory: "Book keeping",
+    courses: "Book keeping",
     img: "https://tse3.mm.bing.net/th?id=OIP.sbbNIi9tYGhVP_ZO1ENMWQHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Financial Accounting - #1 Ranked University: Course 1 of 5",
@@ -2022,7 +2041,7 @@ const HomePage = [
   {
     id: 123,
     category: "Finance & Accounting",
-    subcategory: "Book keeping",
+    courses: "Book keeping",
     img: "https://tse3.mm.bing.net/th?id=OIP.IxFbQ1F6gcFAw6FXqLB9agHaJ0&pid=Api&P=0&h=180",
     heading: "Principles of Financial Accounting",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2040,7 +2059,7 @@ const HomePage = [
   {
     id: 124,
     category: "Finance & Accounting",
-    subcategory: "Book keeping",
+    courses: "Book keeping",
     img: "https://sanet.pics/storage-8/1022/C9tCPg9wyZ7Gy1l66mFp9EUjLgAoAko7.jpg",
     heading: "How to Read Financial Statements: Build Financial Literacy.",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2058,7 +2077,7 @@ const HomePage = [
   {
     id: 125,
     category: "Finance & Accounting",
-    subcategory: "Book keeping",
+    courses: "Book keeping",
     img: "https://pixhost.icu/avaxhome/e3/28/009328e3_medium.jpg",
     heading: "Accounting Made Easy: A Quick Guide to Financial Accounting",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2076,7 +2095,7 @@ const HomePage = [
   {
     id: 126,
     category: "Finance & Accounting",
-    subcategory: "Book keeping",
+    courses: "Book keeping",
     img: "https://tse1.mm.bing.net/th?id=OIP.FkyALV9CcbPo233T3FxWFQHaEH&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Audit - Financial Statement",
@@ -2094,7 +2113,7 @@ const HomePage = [
   {
     id: 127,
     category: "Finance & Accounting",
-    subcategory: "compilance",
+    courses: "compilance",
     img: "https://tse1.mm.bing.net/th?id=OIP.qptoEqh6-axD1YVGTPMEcgHaEK&pid=Api&P=0&h=180",
     heading: "Anti Money Laundering & Countering of Terrorist Financing",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2113,7 +2132,7 @@ const HomePage = [
   {
     id: 128,
     category: "Finance & Accounting",
-    subcategory: "compilance",
+    courses: "compilance",
     img: "https://image.slidesharecdn.com/ywd2ghyrsklius1wlrc3-signature-aa9bd935008c4035aadf2730259c97d8331ec609886c75dbe644bd3958229e1f-poli-150502031137-conversion-gate01/95/top-10-lessons-learned-from-coso-2013-implementation-11-638.jpg?cb=1430536502",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "COSO 2013 Requirements and Implementation Overview",
@@ -2131,7 +2150,7 @@ const HomePage = [
   {
     id: 129,
     category: "Finance & Accounting",
-    subcategory: "compilance",
+    courses: "compilance",
     img: "https://tse1.mm.bing.net/th?id=OIP.dzrp9RxcYaFMiq5kGBKfAwHaEK&pid=Api&P=0&h=180",
     heading: "Internal Controls - Design, Implementation and Monitoring",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2148,7 +2167,7 @@ const HomePage = [
   {
     id: 130,
     category: "Finance & Accounting",
-    subcategory: "compilance",
+    courses: "compilance",
     img: "https://tse3.mm.bing.net/th?id=OIP.jUdWUeqjtyaUEm6BzDvabAHaE8&pid=Api&P=0&h=180",
     heading: "Introduction to Sarbanes Oxley (SOX).",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2166,7 +2185,7 @@ const HomePage = [
   {
     id: 131,
     category: "Finance & Accounting",
-    subcategory: "compilance",
+    courses: "compilance",
     img: "https://www.textileebook.com/wp-content/uploads/2020/09/Accounting-Made-Simple-Accounting-Explained-in-100-Pages-or-Less.jpg",
     heading: "Accounting Made Easy: A Quick Guide to Financial Accounting",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2185,7 +2204,7 @@ const HomePage = [
   {
     id: 132,
     category: "Finance & Accounting",
-    subcategory: "compilance",
+    courses: "compilance",
     img: "https://tse1.mm.bing.net/th?id=OIP.kO5GdWefhgSPbmEa7wjBBgAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Anti-Money Laundering in Gambling",
@@ -2204,7 +2223,7 @@ const HomePage = [
   {
     id: 133,
     category: "Finance & Accounting",
-    subcategory: "Economic",
+    courses: "Economic",
     img: "https://tse1.mm.bing.net/th?id=OIP.aUkQhCnHKsugy8SqzxHo4QHaEL&pid=Api&P=0&h=180",
     heading: "The economic model of emerging countries - Michael Spence",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2223,7 +2242,7 @@ const HomePage = [
   {
     id: 134,
     category: "Finance & Accounting",
-    subcategory: "Economic",
+    courses: "Economic",
     img: "https://tse4.mm.bing.net/th?id=OIF.J8yxO0w3dag7ig3%2bqfvbJA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "(Oxford) Master Diploma : Economics (Includes Macro/Micro)",
@@ -2240,7 +2259,7 @@ const HomePage = [
   {
     id: 135,
     category: "Finance & Accounting",
-    subcategory: "Economic",
+    courses: "Economic",
     img: "https://tse2.mm.bing.net/th?id=OIP.-k0S95nJwGsnkM88rj_MtAHaEP&pid=Api&P=0&h=180",
     heading: "Understanding Macroeconomics for University and Business",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2257,7 +2276,7 @@ const HomePage = [
   {
     id: 136,
     category: "Finance & Accounting",
-    subcategory: "Economic",
+    courses: "Economic",
     img: "https://marketbusinessnews.com/wp-content/uploads/2015/09/Demand-Supply.jpg",
     heading: "Economics: Market Forces of Demand, Supply and Equilibrium",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2275,7 +2294,7 @@ const HomePage = [
   {
     id: 137,
     category: "Finance & Accounting",
-    subcategory: "Economic",
+    courses: "Economic",
     img: "https://tse1.mm.bing.net/th?id=OIP.GJMt4PFuivK3w8kZorQBfQHaEM&pid=Api&P=0&h=180",
     heading: "The Macroeconomics Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2293,7 +2312,7 @@ const HomePage = [
   {
     id: 138,
     category: "Finance & Accounting",
-    subcategory: "Economic",
+    courses: "Economic",
     img: "https://tse1.mm.bing.net/th?id=OIP.UoCfhQHK9JPaEBwpAJeR7AHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Macroeconomics: A Comprehensive Economics Course",
@@ -2311,7 +2330,7 @@ const HomePage = [
   {
     id: 139,
     category: "Finance & Accounting",
-    subcategory: "finance",
+    courses: "finance",
     img: "https://tse4.mm.bing.net/th?id=OIP.4zaqNMs0cOiuTmkss1zW6gAAAA&pid=Api&P=0&h=180",
     heading: "Understand Banks & Financial Markets",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2330,7 +2349,7 @@ const HomePage = [
   {
     id: 140,
     category: "Finance & Accounting",
-    subcategory: "finance",
+    courses: "finance",
     img: "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/global%20capital%20markets/mapping%20global%20capital%20markets%202011/magl11_frth.jpg?mw=605&car=211:119",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "The Complete Guide to the Global Capital Markets",
@@ -2348,7 +2367,7 @@ const HomePage = [
   {
     id: 141,
     category: "Finance & Accounting",
-    subcategory: "finance",
+    courses: "finance",
     img: "https://cdn.self-made.io/wp-content/uploads/2020/02/shutterstock_795017047.jpg",
     heading: "Personal Financial Well-Being",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2364,7 +2383,7 @@ const HomePage = [
   {
     id: 142,
     category: "Finance & Accounting",
-    subcategory: "finance",
+    courses: "finance",
     img: "https://thumbs.dreamstime.com/z/business-acronym-mbs-as-mortgage-backed-security-hand-man-completing-puzzle-last-missing-piece-concept-image-196651329.jpg",
     heading: "Mortgage Backed Securities (MBS): Basic to Advanced",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2382,7 +2401,7 @@ const HomePage = [
   {
     id: 143,
     category: "Finance & Accounting",
-    subcategory: "finance",
+    courses: "finance",
     img: "https://tse2.mm.bing.net/th?id=OIP.UJzAgTn5hfrZfuQXqCCEKAHaEK&pid=Api&P=0&h=180",
     heading: "Beginner's Guide - SWIFT Message Types - MT and MX ISO 20022",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2400,7 +2419,7 @@ const HomePage = [
   {
     id: 144,
     category: "Finance & Accounting",
-    subcategory: "finance",
+    courses: "finance",
     img: "https://5.imimg.com/data5/SELLER/Default/2020/10/WV/VL/XD/21888277/become-a-top-banker-with-complete-retail-banking-training-1000x1000.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Become a Top Banker with Complete Retail Banking Training",
@@ -2418,7 +2437,7 @@ const HomePage = [
   {
     id: 145,
     category: "Finance & Accounting",
-    subcategory: "taxes",
+    courses: "taxes",
     img: "https://tse4.mm.bing.net/th?id=OIP.WKNLdMI2vD1tVdY2mIxHCQHaEK&pid=Api&P=0&h=180",
     heading: "US Income Taxes - Income Tax Preparation Simplified for You",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2437,7 +2456,7 @@ const HomePage = [
   {
     id: 146,
     category: "Finance & Accounting",
-    subcategory: "taxes",
+    courses: "taxes",
     img: "https://tse2.mm.bing.net/th?id=OIP.LPvcLYE-FjBi_W-Ns9rNOgHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Tax Preparation: Learn Fast! Prepare Taxes with Confidence!",
@@ -2455,7 +2474,7 @@ const HomePage = [
   {
     id: 147,
     category: "Finance & Accounting",
-    subcategory: "taxes",
+    courses: "taxes",
     img: "https://tse4.mm.bing.net/th?id=OIP.vO1Me8H5lgxsXfUat4sJVAHaF7&pid=Api&P=0&h=180",
     heading: "Personal Income Tax in Canada",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2471,7 +2490,7 @@ const HomePage = [
   {
     id: 148,
     category: "Finance & Accounting",
-    subcategory: "taxes",
+    courses: "taxes",
     img: "https://jaxpubliclibrary.org/files/Plasma_AARP_Tax_Preparation_2021.jpg",
     heading: "Tax Preparation and Law 2023, 2022, 2021, 2020, & 2019",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2490,7 +2509,7 @@ const HomePage = [
   {
     id: 149,
     category: "Finance & Accounting",
-    subcategory: "taxes",
+    courses: "taxes",
     img: "https://tse3.mm.bing.net/th?id=OIP.ZQmOG6_9hYDTmfMBFVY8JwHaD4&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Basics of Payment Systems",
@@ -2507,7 +2526,7 @@ const HomePage = [
   {
     id: 150,
     category: "Finance & Accounting",
-    subcategory: "taxes",
+    courses: "taxes",
     img: "https://tse1.mm.bing.net/th?id=OIP.ME_0sYtI-nwnaN_LntuCNAHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Income Tax – Schedule C Small Business Sole Proprietor",
@@ -2525,7 +2544,7 @@ const HomePage = [
   {
     id: 151,
     category: "It & Software",
-    subcategory: "It & Software",
+    courses: "It & Software",
     img: "https://tse2.mm.bing.net/th?id=OIP.24ngv1K-9GYIxoSz-e4BGQHaEK&pid=Api&P=0&h=180",
     heading: "CCNA 2020 200-125 Video Boot Camp With Chris Bryant",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2544,7 +2563,7 @@ const HomePage = [
   {
     id: 152,
     category: "It & Software",
-    subcategory: "It & Software",
+    courses: "It & Software",
     img: "https://tse4.mm.bing.net/th?id=OIP.UX4REtGoYOfBG2FRW14NeQHaED&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "IT Troubleshooting Skill Training",
@@ -2560,7 +2579,7 @@ const HomePage = [
   {
     id: 153,
     category: "It & Software",
-    subcategory: "It & Software",
+    courses: "It & Software",
     img: "https://tse4.mm.bing.net/th?id=OIP.vO1Me8H5lgxsXfUat4sJVAHaF7&pid=Api&P=0&h=180",
     heading: "CCNP All-in-1 Video Boot Camp With Chris Bryant",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2577,7 +2596,7 @@ const HomePage = [
   {
     id: 154,
     category: "It & Software",
-    subcategory: "It & Software",
+    courses: "It & Software",
     img: "https://tse4.mm.bing.net/th?id=OIP.EChPC1Zpgel0KK5hJCzqygHaFU&pid=Api&P=0&h=180",
     heading: "Introduction To Fiber Optic Cabling",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2596,7 +2615,7 @@ const HomePage = [
   {
     id: 155,
     category: "It & Software",
-    subcategory: "It & Software",
+    courses: "It & Software",
     img: "https://tse2.mm.bing.net/th?id=OIP.I7g67RE2iK_uCV_Q9-qqFwHaFM&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Cisco CCNA 200-301 – The Complete Guide to Getting Certified",
@@ -2614,7 +2633,7 @@ const HomePage = [
   {
     id: 156,
     category: "It & Software",
-    subcategory: "It & Software",
+    courses: "It & Software",
     img: "https://tse2.mm.bing.net/th?id=OIP.vrjdot8v67gbFKdXYepVHwHaEp&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "The Complete Cyber Security Course : Hackers Exposed!",
@@ -2633,7 +2652,7 @@ const HomePage = [
   {
     id: 157,
     category: "It & Software",
-    subcategory: "certification",
+    courses: "certification",
     img: "https://tse1.mm.bing.net/th?id=OIP.bpzLxhhnQVkzVYN1gL0NggHaGI&pid=Api&P=0&h=180",
     heading: "Certified Six Sigma Yellow Belt Training",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2652,7 +2671,7 @@ const HomePage = [
   {
     id: 158,
     category: "It & Software",
-    subcategory: "certification",
+    courses: "certification",
     img: "https://tse1.mm.bing.net/th?id=OIP.7YOWdHpd2RQ2KXZCLPG8TAHaJ4&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Lean Six Sigma Green Belt Online Course (2023)",
@@ -2668,7 +2687,7 @@ const HomePage = [
   {
     id: 159,
     category: "It & Software",
-    subcategory: "certification",
+    courses: "certification",
     img: "https://tse4.mm.bing.net/th?id=OIP.vO1Me8H5lgxsXfUat4sJVAHaF7&pid=Api&P=0&h=180",
     heading: "Lean Six Sigma Yellow Belt Online Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2685,7 +2704,7 @@ const HomePage = [
   {
     id: 160,
     category: "It & Software",
-    subcategory: "certification",
+    courses: "certification",
     img: "https://tse1.mm.bing.net/th?id=OIP.7zDf6sTO5HJb0kiJEtiuxwHaEr&pid=Api&P=0&h=180",
     heading: "MTA: Networking Fundamentals - Exam: Microsoft 98-366",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2703,7 +2722,7 @@ const HomePage = [
   {
     id: 161,
     category: "It & Software",
-    subcategory: "certification",
+    courses: "certification",
     img: "https://tse2.mm.bing.net/th?id=OIP.BZnZfJSGZ4FCmQFfiha_CgHaEK&pid=Aphttps://i.ytimg.com/vi/J7LpeSSPAys/maxresdefault.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Cisco CCNA 200-301 – The Complete Guide to Getting Certified",
@@ -2721,7 +2740,7 @@ const HomePage = [
   {
     id: 162,
     category: "It & Software",
-    subcategory: "certification",
+    courses: "certification",
     img: "https://tse3.mm.bing.net/th?id=OIP.sPpnp21jr09FDl7ArXgqwgHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "The Complete Networking Fundamentals Course. Your CCNA start",
@@ -2740,7 +2759,7 @@ const HomePage = [
   {
     id: 163,
     category: "It & Software",
-    subcategory: "Network & Security",
+    courses: "Network & Security",
     img: "https://researcherstore.com/wp-content/uploads/2020/08/2351080_50c9-Custom-600x400.jpg",
     heading: "Computer Forensics Fundamentals",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2759,7 +2778,7 @@ const HomePage = [
   {
     id: 164,
     category: "It & Software",
-    subcategory: "Network & Security",
+    courses: "Network & Security",
     img: "https://i.ytimg.com/vi/rydWLmrNh5g/maxresdefault.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Mastering Modbus RS485 Network Communication",
@@ -2776,7 +2795,7 @@ const HomePage = [
   {
     id: 165,
     category: "It & Software",
-    subcategory: "Network & Security",
+    courses: "Network & Security",
     img: "https://1.bp.blogspot.com/-MnzfjvAYFBM/V8eNmyspWqI/AAAAAAAAA_k/JMbJLrITb_csyMDNYcqXgEo_I_rkLwppwCLcB/s1600/%255B100%2525%2BOff%255D%2BMaster%2BComputers%2B-%2BFrom%2BBeginner%2Bto%2BExpert%2Bin%2BOne%2BWeek%2BWorth%2B20%2524.jpg",
     heading: "Master Computers - From Beginner to Expert in One Week",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2794,7 +2813,7 @@ const HomePage = [
   {
     id: 166,
     category: "It & Software",
-    subcategory: "Network & Security",
+    courses: "Network & Security",
     img: "https://tse1.mm.bing.net/th?id=OIP.7zDf6sTO5HJb0kiJEtiuxwHaEr&pid=Api&P=0&h=180",
     heading: "MTA: Networking Fundamentals - Exam: Microsoft 98-366",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2812,7 +2831,7 @@ const HomePage = [
   {
     id: 167,
     category: "It & Software",
-    subcategory: "Network & Security",
+    courses: "Network & Security",
     img: "https://tse4.mm.bing.net/th?id=OIP.HA_tCe6peCcgvr7W8k9YlAHaDv&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "AWS Essentials",
@@ -2830,7 +2849,7 @@ const HomePage = [
   {
     id: 168,
     category: "It & Software",
-    subcategory: "Network & Security",
+    courses: "Network & Security",
     img: "https://tse1.mm.bing.net/th?id=OIP.K-3W7t-1c_eBnKZGCRb7-QHaEH&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "OWASP top 10 Web Application Security for Absolute Beginners",
@@ -2848,7 +2867,7 @@ const HomePage = [
   {
     id: 169,
     category: "It & Software",
-    subcategory: "Hardware",
+    courses: "Hardware",
     img: "https://tse1.mm.bing.net/th?id=OIP.1igWv8qW9UgGtosHIcl0pAHaEK&pid=Api&P=0&h=180",
     heading: "Learn 5 PLCs in a Day-AB, Siemens, Schneider, Omron & Delta",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2866,7 +2885,7 @@ const HomePage = [
   {
     id: 170,
     category: "It & Software",
-    subcategory: "Hardware",
+    courses: "Hardware",
     img: "https://tse3.mm.bing.net/th?id=OIP.VLTOOERwSGkFRiPwtWQrUAHaFH&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "PLC Fundamentals (Level I)",
@@ -2884,7 +2903,7 @@ const HomePage = [
   {
     id: 171,
     category: "It & Software",
-    subcategory: "Hardware",
+    courses: "Hardware",
     img: "https://tse4.mm.bing.net/th?id=OIP.MrOaDFor2-11d6eEyHNZsgHaEK&pid=Api&P=0&h=180",
     heading: "Advanced AC Drive- VFD, Servo & Stepper - Powerflex & Delta",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2902,7 +2921,7 @@ const HomePage = [
   {
     id: 172,
     category: "It & Software",
-    subcategory: "Hardware",
+    courses: "Hardware",
     img: "https://scholarsark.com/wp-content/uploads/2021/04/6867-how-to-build-a-computer-a-complete-guide-for-beginners-806x440.jpg",
     heading: "How To Build a Computer: A Beginner's Guide",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2920,7 +2939,7 @@ const HomePage = [
   {
     id: 173,
     category: "It & Software",
-    subcategory: "Hardware",
+    courses: "Hardware",
     img: "https://toplist.info/images/800px/arduino-programming-and-hardware-fundamentals-with-hackster-852917.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Arduino Programming and Hardware Fundamentals with Hackster",
@@ -2938,7 +2957,7 @@ const HomePage = [
   {
     id: 174,
     category: "It & Software",
-    subcategory: "Hardware",
+    courses: "Hardware",
     img: "https://tse3.mm.bing.net/th?id=OIP.6jCMdZHvxW_ntL1Wni8qsAAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Learn Siemens S7-1200 PLC & HMI from Scratch using TIA",
@@ -2956,7 +2975,7 @@ const HomePage = [
   {
     id: 175,
     category: "It & Software",
-    subcategory: "oprating system & server",
+    courses:"operating system & server",
     img: "https://tse1.mm.bing.net/th?id=OIP.z_tb1aBrB3fExZqSb-fhnwHaEK&pid=Api&P=0&h=180",
     heading: "Linux Command Line Basics",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2974,7 +2993,7 @@ const HomePage = [
   {
     id: 176,
     category: "It & Software",
-    subcategory: "oprating system & server",
+    courses:"operating system & server",
     img: "https://www.codersdiaries.com/uploads/media/most-useful-unix-commands-1608266710774.jpeg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Unix For Beginners",
@@ -2990,7 +3009,7 @@ const HomePage = [
   {
     id: 177,
     category: "It & Software",
-    subcategory: "oprating system & server",
+    courses:"operating system & server",
     img: "https://tse4.mm.bing.net/th?id=OIP.MrOaDFor2-11d6eEyHNZsgHaEK&pid=Api&P=0&h=180",
     heading: "Advanced AC Drive- VFD, Servo & Stepper - Powerflex & Delta",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3008,7 +3027,7 @@ const HomePage = [
   {
     id: 178,
     category: "It & Software",
-    subcategory: "oprating system & server",
+    courses:"operating system & server",
     img: "https://i0.wp.com/thelinuxcentre.com/wp-content/uploads/2022/06/learn-linux-course-in-5-days.png?fit=720%2C345&ssl=1",
     heading: "Learn Linux in 5 Days and Level Up Your Career",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3025,7 +3044,7 @@ const HomePage = [
   {
     id: 179,
     category: "It & Software",
-    subcategory: "oprating system & server",
+    courses:"operating system & server",
     img: "https://tse3.mm.bing.net/th?id=OIP.-4Ffr9v-bVm-wUnD1UOFYwAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Linux Administration Bootcamp: Go from Beginner to Advanced",
@@ -3044,7 +3063,7 @@ const HomePage = [
   {
     id: 180,
     category: "It & Software",
-    subcategory: "oprating system & server",
+    courses:"operating system & server",
     img: "https://tse1.mm.bing.net/th?id=OIP.cnmbeXay6Py7MuqjEVZXEwHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Microsoft Windows Server 2016 Training for Beginners",
@@ -3062,7 +3081,7 @@ const HomePage = [
   {
     id: 181,
     category: "It & Software",
-    subcategory: "Other IT & Software Courses",
+    courses: "Other IT & Software Courses",
     img: "https://tse2.mm.bing.net/th?id=OIP.thPOcPCEm5n0AR4fUUqQXgHaEK&pid=Api&P=0&h=180",
     heading: "Information Technology Essentials",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3080,7 +3099,7 @@ const HomePage = [
   {
     id: 182,
     category: "It & Software",
-    subcategory: "Other IT & Software Courses",
+    courses: "Other IT & Software Courses",
     img: "https://tse3.mm.bing.net/th?id=OIP.tRWb1rZPfqiwNPW2MCGImgHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Learn SQL Queries",
@@ -3097,7 +3116,7 @@ const HomePage = [
   {
     id: 183,
     category: "It & Software",
-    subcategory: "Other IT & Software Courses",
+    courses: "Other IT & Software Courses",
     img: "https://tse4.mm.bing.net/th?id=OIP.QJI6FkAKnAs_KMbcMyPQiAHaEK&pid=Api&P=0&h=180",
     heading: "Oracle GoldenGate 12c database replication workshop",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3115,7 +3134,7 @@ const HomePage = [
   {
     id: 184,
     category: "It & Software",
-    subcategory: "Other IT & Software Courses",
+    courses: "Other IT & Software Courses",
     img: "https://tse4.mm.bing.net/th?id=OIP.CDQ3BvwnSY4EEqFtqSCMXAHaEK&pid=Api&P=0&h=180",
     heading: "Data Modeling and Relational Database Design using ERwin",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3134,7 +3153,7 @@ const HomePage = [
   {
     id: 185,
     category: "It & Software",
-    subcategory: "Other IT & Software Courses",
+    courses: "Other IT & Software Courses",
     img: "https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "How to use ChatGPT and Generative AI to help create content",
@@ -3153,7 +3172,7 @@ const HomePage = [
   {
     id: 186,
     category: "It & Software",
-    subcategory: "Other IT & Software Courses",
+    courses: "Other IT & Software Courses",
     img: "https://tse1.mm.bing.net/th?id=OIP.K68-ircaA6HDFKIyXfmptQHaEc&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "The DevOps Essentials - The Handbook",
@@ -3171,7 +3190,7 @@ const HomePage = [
   {
     id: 187,
     category: "Marketing",
-    subcategory: "Marketing",
+    courses: "Marketing",
     img: "https://www.actionstudio.co.uk/wp-content/uploads/2018/02/Social-Media.jpg",
     heading: "Social Media For Business Strategy",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3190,7 +3209,7 @@ const HomePage = [
   {
     id: 188,
     category: "Marketing",
-    subcategory: "Marketing",
+    courses: "Marketing",
     img: "https://tse2.mm.bing.net/th?id=OIP.yIabZ_mQMrE7yNq_Y2_24wHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Digital Marketing: 16 Strategic and Tactical Courses in 1",
@@ -3206,7 +3225,7 @@ const HomePage = [
   {
     id: 189,
     category: "Marketing",
-    subcategory: "Marketing",
+    courses: "Marketing",
     img: "https://tse4.mm.bing.net/th?id=OIP.QJI6FkAKnAs_KMbcMyPQiAHaEK&pid=Api&P=0&h=180",
     heading: "Oracle GoldenGate 12c database replication workshop",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3224,7 +3243,7 @@ const HomePage = [
   {
     id: 190,
     category: "Marketing",
-    subcategory: "Marketing",
+    courses: "Marketing",
     img: "https://tse3.mm.bing.net/th?id=OIP.acjoMHgaiZIrtR84z5cvvQHaFj&pid=Api&P=0&h=180",
     heading: "Marketing Research: support your marketing decisions",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3242,7 +3261,7 @@ const HomePage = [
   {
     id: 191,
     category: "Marketing",
-    subcategory: "Marketing",
+    courses: "Marketing",
     img: "https://i.ytimg.com/vi/I_D0R5bXmvM/maxresdefault.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Facebook Ads & Facebook Marketing MASTERY 2023 | Coursenvy ",
@@ -3260,7 +3279,7 @@ const HomePage = [
   {
     id: 192,
     category: "Marketing",
-    subcategory: "Marketing",
+    courses: "Marketing",
     img: "https://tse3.mm.bing.net/th?id=OIP.goe-M2qWohOyKh6MAvi5MQHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "YouTube Masterclass - Your Complete Guide to YouTube",
@@ -3278,7 +3297,7 @@ const HomePage = [
   {
     id: 193,
     category: "Marketing",
-    subcategory: "Digital Marketing",
+    courses: "Digital Marketing",
     img: "https://tse3.explicit.bing.net/th?id=OIP.8OR1yEiBsLmkKgKt3fOSnAHaES&pid=Api&P=0&h=180",
     heading: "Digital Advertising and Marketing 101: The Complete Guide",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3297,7 +3316,7 @@ const HomePage = [
   {
     id: 194,
     category: "Marketing",
-    subcategory: "Digital Marketing",
+    courses: "Digital Marketing",
     img: "https://tse3.mm.bing.net/th?id=OIP.GKEYANco_5xzOnS9pxLf_QHaD_&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Digital Marketing: How to Generate Sales Leads",
@@ -3314,15 +3333,15 @@ const HomePage = [
   {
     id: 195,
     category: "Marketing",
-    subcategory: "Digital Marketing",
+    courses: "Digital Marketing",
     img: "https://tse3.mm.bing.net/th?id=OIP.hIMx176X5Nl2QJqzAFbFAAHaEx&pid=Api&P=0&h=180",
-    heading: "Fast & effective Landing Page course: Start converting today",
+    heading: "Fast & effective Landing Page courses: Start converting today",
     rating: "4.6⭐⭐⭐⭐⭐",
     price: 4199,
     prevprice: 8199,
     time: "2 total hoursAll LevelsSubtitles",
     headinghover:
-      "Fast & effective Landing Page course: Start converting today",
+      "Fast & effective Landing Page courses: Start converting today",
     about:
       "Learn how to Design, Build & Publish high-converting landing pages in only 2 hours.",
     para: "Learn how to Design, Build & Publish high-converting landing pages in only 2 hours.!",
@@ -3333,7 +3352,7 @@ const HomePage = [
   {
     id: 196,
     category: "Marketing",
-    subcategory: "Digital Marketing",
+    courses: "Digital Marketing",
     img: "https://tse4.mm.bing.net/th?id=OIP.5_OlcGJMXV4vLzeb7SVKdgAAAA&pid=Api&P=0&h=180",
     heading: "Digital Marketing Masterclass:Get Your First 1,000 Customers",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3352,7 +3371,7 @@ const HomePage = [
   {
     id: 197,
     category: "Marketing",
-    subcategory: "Digital Marketing",
+    courses: "Digital Marketing",
     img: "https://tse2.mm.bing.net/th?id=OIP.AfuaeYIWTM6mZmunWnbwhAHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Digital Marketing Certification: Master Digital Marketing",
@@ -3370,7 +3389,7 @@ const HomePage = [
   {
     id: 198,
     category: "Marketing",
-    subcategory: "Digital Marketing",
+    courses: "Digital Marketing",
     img: "https://tse3.mm.bing.net/th?id=OIP.goe-M2qWohOyKh6MAvi5MQHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "YouTube Masterclass - Your Complete Guide to YouTube",
@@ -3388,7 +3407,7 @@ const HomePage = [
   {
     id: 199,
     category: "Marketing",
-    subcategory: "content marketing",
+    courses: "content marketing",
     img: "https://tse4.mm.bing.net/th?id=OIP.QlusYLHpSsRH9zsgm_TaLAHaFg&pid=Api&P=0&h=180",
     heading: "2023 Facebook Marketing & Facebook Ads: 1000% More Growth",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3407,7 +3426,7 @@ const HomePage = [
   {
     id: 200,
     category: "Marketing",
-    subcategory: "content marketing",
+    courses: "content marketing",
     img: "https://cdn.eduonix.com/assets/images/header_img/2020040523275711787.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Social Media Marketing - Complete Certificate Course",
@@ -3424,15 +3443,15 @@ const HomePage = [
   {
     id: 201,
     category: "Marketing",
-    subcategory: "content marketing",
+    courses: "content marketing",
     img: "https://tse3.mm.bing.net/th?id=OIP.hIMx176X5Nl2QJqzAFbFAAHaEx&pid=Api&P=0&h=180",
-    heading: "Fast & effective Landing Page course: Start converting today",
+    heading: "Fast & effective Landing Page courses: Start converting today",
     rating: "4.6⭐⭐⭐⭐⭐",
     price: 4199,
     prevprice: 8199,
     time: "2 total hoursAll LevelsSubtitles",
     headinghover:
-      "Fast & effective Landing Page course: Start converting today",
+      "Fast & effective Landing Page courses: Start converting today",
     about:
       "Learn how to Design, Build & Publish high-converting landing pages in only 2 hours.",
     para: "Learn how to Design, Build & Publish high-converting landing pages in only 2 hours.!",
@@ -3443,7 +3462,7 @@ const HomePage = [
   {
     id: 202,
     category: "Marketing",
-    subcategory: "content marketing",
+    courses: "content marketing",
     img: "https://tse4.mm.bing.net/th?id=OIP.5_OlcGJMXV4vLzeb7SVKdgAAAA&pid=Api&P=0&h=180",
     heading: "Instagram Marketing: Complete Guide To Instagram Growth",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3463,7 +3482,7 @@ const HomePage = [
   {
     id: 203,
     category: "Marketing",
-    subcategory: "content marketing",
+    courses: "content marketing",
     img: "https://tse2.mm.bing.net/th?id=OIP.49Hf89lnTqktIHscpY1QTQHaEF&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Digital Marketing Certification: Master Digital Marketing",
@@ -3481,7 +3500,7 @@ const HomePage = [
   {
     id: 204,
     category: "Marketing",
-    subcategory: "content marketing",
+    courses: "content marketing",
     img: "https://tse1.mm.bing.net/th?id=OIP.M6tYNrNXF8ClhMaGacm9jwHaE-&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "How To Build A Brand On Social Media!",
@@ -3499,7 +3518,7 @@ const HomePage = [
   {
     id: 205,
     category: "Marketing",
-    subcategory: "socail media",
+    courses: "social media",
     img: "https://i.ytimg.com/vi/I_D0R5bXmvM/maxresdefault.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Facebook Ads & Facebook Marketing MASTERY 2023 | Coursenvy ",
@@ -3517,7 +3536,7 @@ const HomePage = [
   {
     id: 206,
     category: "Marketing",
-    subcategory: "socail media",
+    courses: "social media",
     img: "https://tse4.mm.bing.net/th?id=OIP.NdQqIzrfe7VnH5_NL4sffQHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "LinkedIn Training Course",
@@ -3535,7 +3554,7 @@ const HomePage = [
   {
     id: 207,
     category: "Marketing",
-    subcategory: "socail media",
+    courses: "social media",
     img: "https://tse2.mm.bing.net/th?id=OIP.o4gIwkzG1V2QgaO7CsbcLwHaEK&pid=Api&P=0&h=180",
     heading: "Digital Advertising and Marketing 101: The Complete Guide",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3554,7 +3573,7 @@ const HomePage = [
   {
     id: 208,
     category: "Marketing",
-    subcategory: "socail media",
+    courses: "social media",
     img: "https://tse1.mm.bing.net/th?id=OIP.9oUjPJRWN2eKK58-IqQYrAHaFG&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Digital Marketing: How to Generate Sales Leads",
@@ -3571,7 +3590,7 @@ const HomePage = [
   {
     id: 209,
     category: "Marketing",
-    subcategory: "socail media",
+    courses: "social media",
     img: "https://tse2.mm.bing.net/th?id=OIP.5DRtRDYj5AgI7b6rlbXQsgHaEK&pid=Api&P=0&h=180",
     heading: "Pinterest Marketing & Advertising Beginner To Advanced 2023",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3579,7 +3598,7 @@ const HomePage = [
     prevprice: 8199,
     time: "2 total hoursAll LevelsSubtitles",
     headinghover:
-      "Fast & effective Landing Page course: Start converting today",
+      "Fast & effective Landing Page courses: Start converting today",
     about:
       "Learn how to Design, Build & Publish high-converting landing pages in only 2 hours.",
     para: "Complete, 2023, step-by-step course to unleashing a tidal wave of traffic & sales FAST, WITHOUT ANY marketing experience (or even website)!",
@@ -3590,7 +3609,7 @@ const HomePage = [
   {
     id: 210,
     category: "Marketing",
-    subcategory: "socail media",
+    courses: "social media",
     img: "https://tse4.mm.bing.net/th?id=OIP.UJtosTZyi3p6EXuzaSe24AHaEK&pid=Api&P=0&h=180",
     heading: "TikTok Marketing 2023: Grow Your Account & Master TikTok Ads",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3608,7 +3627,7 @@ const HomePage = [
   {
     id: 211,
     category: "Marketing",
-    subcategory: "public marketing",
+    courses: "public marketing",
     img: "https://buildmyplays.com/wp-content/uploads/2020/09/facebook-marketing.jpg",
     heading: "2023 Facebook Marketing & Facebook Ads: 1000% More Growth",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3627,7 +3646,7 @@ const HomePage = [
   {
     id: 212,
     category: "Marketing",
-    subcategory: "public marketing",
+    courses: "public marketing",
     img: "https://tse4.mm.bing.net/th?id=OIP.pTOahCNNmM6WB6M3-ytabQHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Social Media Marketing - Complete Certificate Course",
@@ -3644,15 +3663,15 @@ const HomePage = [
   {
     id: 213,
     category: "Marketing",
-    subcategory: "public marketing",
+    courses: "public marketing",
     img: "https://tse4.mm.bing.net/th?id=OIP.RJQMSlju0qerkpw4ExOT1wHaEK&pid=Api&P=0&h=180",
-    heading: "Fast & effective Landing Page course: Start converting today",
+    heading: "Fast & effective Landing Page courses: Start converting today",
     rating: "4.6⭐⭐⭐⭐⭐",
     price: 4199,
     prevprice: 8199,
     time: "2 total hoursAll LevelsSubtitles",
     headinghover:
-      "Fast & effective Landing Page course: Start converting today",
+      "Fast & effective Landing Page courses: Start converting today",
     about:
       "Learn how to Design, Build & Publish high-converting landing pages in only 2 hours.",
     para: "Learn how to Design, Build & Publish high-converting landing pages in only 2 hours.!",
@@ -3663,8 +3682,8 @@ const HomePage = [
   {
     id: 214,
     category: "Marketing",
-    subcategory:
-      "https://tse4.mm.bing.net/th?id=OIP.yJ_VzXhEWlt5WbkwDAbF1wHaE8&pid=Api&P=0&h=180",
+    courses: "public marketing",
+    img:  "https://tse4.mm.bing.net/th?id=OIP.yJ_VzXhEWlt5WbkwDAbF1wHaE8&pid=Api&P=0&h=180",
     heading: "Instagram Marketing: Complete Guide To Instagram Growth",
     rating: "4.6⭐⭐⭐⭐⭐",
     price: 4199,
@@ -3683,8 +3702,8 @@ const HomePage = [
   {
     id: 215,
     category: "Marketing",
-    subcategory:
-      "https://tse3.mm.bing.net/th?id=OIP.Qvy2W2Egi-o-KTtWtvWHaAHaHa&pid=Api&P=0&h=180",
+    courses: "public marketing",
+    img: "https://tse3.mm.bing.net/th?id=OIP.Qvy2W2Egi-o-KTtWtvWHaAHaHa&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Digital Marketing Certification: Master Digital Marketing",
     price: 4199,
@@ -3701,7 +3720,7 @@ const HomePage = [
   {
     id: 216,
     category: "Marketing",
-    subcategory: "public marketing",
+    courses: "public marketing",
     img: "https://tse3.mm.bing.net/th?id=OIP.PGzNCn4M1o1XzyNuSk4pFAHaEC&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "How To Build A Brand On Social Media!",
@@ -3718,7 +3737,7 @@ const HomePage = [
   {
     id: 217,
     category: "Marketing",
-    subcategory: "product Marketing",
+    courses: "product Marketing",
     img: "https://www.gfxtra31.com/uploads/posts/2020-10/1602283140_496456_b94f_7.jpg",
     heading: "Bestseller Book Marketing: Amazon Kindle KDP Self-Publishing",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3738,7 +3757,7 @@ const HomePage = [
   {
     id: 218,
     category: "Marketing",
-    subcategory: "product Marketing",
+    courses: "product Marketing",
     img: "https://tse2.mm.bing.net/th?id=OIP.yIabZ_mQMrE7yNq_Y2_24wHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "B2B Sales Skills: LinkedIn Lead Generation, Cold Email Sales",
@@ -3756,7 +3775,7 @@ const HomePage = [
   {
     id: 219,
     category: "Marketing",
-    subcategory: "product Marketing",
+    courses: "product Marketing",
     img: "https://tse2.mm.bing.net/th?id=OIP.Uur6JUFxRXfR_kSf5qacyAHaEK&pid=Api&P=0&h=180",
     heading: "Product Management Marketing: Dekker's Product Marketing MBA",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3774,7 +3793,7 @@ const HomePage = [
   {
     id: 220,
     category: "Marketing",
-    subcategory: "product Marketing",
+    courses: "product Marketing",
     img: "https://tse4.mm.bing.net/th?id=OIP.ed0xdMtTBf3cX1sVgWj_HQHaEK&pid=Api&P=0&h=180",
     heading: "Product Marketing Launch Plan: Product GTM with Dekker, MBA",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3792,7 +3811,7 @@ const HomePage = [
   {
     id: 221,
     category: "Marketing",
-    subcategory: "product Marketing",
+    courses: "product Marketing",
     img: "https://tse4.explicit.bing.net/th?id=OIP.cuCkEk_QYSuufpNQuj1xDwHaEc&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Facebook Ads & Facebook Marketing MASTERY 2023 | Coursenvy ",
@@ -3810,7 +3829,7 @@ const HomePage = [
   {
     id: 222,
     category: "product Marketing",
-    subcategory: "Marketing",
+    courses: "Marketing",
     img: "https://tse4.mm.bing.net/th?id=OIP.OdQdZt9GaJ9qbwWbmMpFPwHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "SaaS Masterclass: Sales, Marketing and Growth Metrics",
@@ -3828,7 +3847,7 @@ const HomePage = [
   {
     id: 223,
     category: "Life Style",
-    subcategory: "Life Style",
+    courses: "Life Style",
     img: "https://tse3.mm.bing.net/th?id=OIP.E4GU5kMusoenSZBStB6pjQHaE3&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Dr. Ian Dunbar's SIRIUS® Dog Trainer Academy - All 4 Days",
@@ -3847,7 +3866,7 @@ const HomePage = [
   {
     id: 224,
     category: "Life Style",
-    subcategory: "Life Style",
+    courses: "Life Style",
     img: "https://tse3.mm.bing.net/th?id=OIP.Qf9jTzT39okpUwtbZZrmOwHaDt&pid=Api&P=0&h=180",
     heading: "Reiki Level I, II and Master/Teacher Certification",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3865,7 +3884,7 @@ const HomePage = [
   {
     id: 225,
     category: "Life Style",
-    subcategory: "Life Style",
+    courses: "Life Style",
     img: "https://tse4.mm.bing.net/th?id=OIP.oOzkbPK4q_0szVZyETWGHwHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Certificate in Ericksonian Hypnotherapy (Hypnosis Training)",
@@ -3882,7 +3901,7 @@ const HomePage = [
   {
     id: 226,
     category: "Life Style",
-    subcategory: "Life Style",
+    courses: "Life Style",
     img: "https://tse3.mm.bing.net/th?id=OIP.gn-bnmOSsBUQxz6Q2_oQ2gHaEK&pid=Api&P=0&h=180",
     heading: "STRESS buster. Watercolor painting to relax. Get the basics",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3900,7 +3919,7 @@ const HomePage = [
   {
     id: 227,
     category: "Life Style",
-    subcategory: "Life Style",
+    courses: "Life Style",
     img: "https://tse1.mm.bing.net/th?id=OIP.WCOKdzZlmdyrhc5UTlE6dgHaEK&pid=Api&P=0&h=180",
     heading: "Reiki Level I, II and Master/Teacher Certification",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3918,7 +3937,7 @@ const HomePage = [
   {
     id: 228,
     category: "Life Style",
-    subcategory: "Life Style",
+    courses: "Life Style",
     img: "https://tse4.explicit.bing.net/th?id=OIP.cuCkEk_QYSuufpNQuj1xDwHaEc&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Reiki Level I, II + Master Certificate Course Energy Healing ",
@@ -3937,7 +3956,7 @@ const HomePage = [
   {
     id: 229,
     category: "Life Style",
-    subcategory: "Art & Craft",
+    courses: "Art & Craft",
     img: "https://pre00.deviantart.net/228a/th/pre/i/2017/024/9/b/watercolor__stress_relief__painting_attempt_2_by_mearcyn-dawjzbh.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "STRESS buster. Watercolor painting to relax. Get the basics",
@@ -3955,7 +3974,7 @@ const HomePage = [
   {
     id: 230,
     category: "Life Style",
-    subcategory: "Art & Craft",
+    courses: "Art & Craft",
     img: "https://tse3.mm.bing.net/th?id=OIP.CqXt9VA5TvxEaDW7v5w10AHaEK&pid=Api&P=0&h=180",
     heading: "The Secrets to Drawing",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -3973,7 +3992,7 @@ const HomePage = [
   {
     id: 231,
     category: "Life Style",
-    subcategory: "Art & Craft",
+    courses: "Art & Craft",
     img: "https://tse2.mm.bing.net/th?id=OIP.6YiKquZBKKdjl9BwD0YJfgHaFU&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Jewelry Making: Wire Wrapping for Beginners",
@@ -3991,7 +4010,7 @@ const HomePage = [
   {
     id: 232,
     category: "Life Style",
-    subcategory: "Art & Craft",
+    courses: "Art & Craft",
     img: "https://i.pinimg.com/originals/c6/a3/22/c6a3223e1dc0b0d97bee295efff3df3b.jpg",
     heading: "The Colored Pencil Drawing Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4007,7 +4026,7 @@ const HomePage = [
   {
     id: 233,
     category: "Life Style",
-    subcategory: "Art & Craft",
+    courses: "Art & Craft",
     img: "https://tse3.mm.bing.net/th?id=OIP.hi14glCmEiDzRuN7CSnzgQHaEK&pid=Api&P=0&h=180",
     heading: "The Art & Science of Drawing / BASIC SKILLS",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4025,7 +4044,7 @@ const HomePage = [
   {
     id: 234,
     category: "Life Style",
-    subcategory: "Art & Craft",
+    courses: "Art & Craft",
     img: "https://tse4.mm.bing.net/th?id=OIP.kbwrFRGoymNGTz7-GvRVtAHaHa&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Watercolor Painting For Beginners | By Award Winning Artis  ",
@@ -4043,7 +4062,7 @@ const HomePage = [
   {
     id: 235,
     category: "Life Style",
-    subcategory: "Beauty Style",
+    courses:"Beauty & Makeup",
     img: "https://tse4.mm.bing.net/th?id=OIP.pN14WXJwBnu8XzzrIIanHQHaD4&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Make-up for Beginners: learn doing make-up like a Pro",
@@ -4062,7 +4081,7 @@ const HomePage = [
   {
     id: 236,
     category: "Life Style",
-    subcategory: "Beauty Style",
+    courses:"Beauty & Makeup",
     img: "https://tse4.mm.bing.net/th?id=OIP.plgE_45pM1Hy5KitWRj3sAHaGU&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Natural Beauty: How to Make Lotions, Creams and Body Butters",
@@ -4081,7 +4100,7 @@ const HomePage = [
   {
     id: 237,
     category: "Life Style",
-    subcategory: "Beauty Style",
+    courses:"Beauty & Makeup",
     img: "https://tse2.explicit.bing.net/th?id=OIP.qUyOWLYae6Vv7AZxrW0nWwHaE8&pid=Api&P=0&h=180",
     heading: "Eyebrow Microblading Full course UPDATED",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4099,7 +4118,7 @@ const HomePage = [
   {
     id: 238,
     category: "Life Style",
-    subcategory: "Beauty Style",
+    courses:"Beauty & Makeup",
     img: "https://tse3.mm.bing.net/th?id=OIP.UU5ouUw13UyLd9ea-SKUIwHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Diploma in Luxury Facial, Facial Machines, Chemical Peeling",
@@ -4116,7 +4135,7 @@ const HomePage = [
   {
     id: 239,
     category: "Life Style",
-    subcategory: "Beauty Style",
+    courses:"Beauty & Makeup",
     img: "https://tse2.mm.bing.net/th?id=OIP.HoKxLhtbGSR-61dMZYlvAwHaEK&pid=Api&P=0&h=180",
     heading: "The Colored Pencil Drawing Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4132,7 +4151,7 @@ const HomePage = [
   {
     id: 240,
     category: "Life Style",
-    subcategory: "Beauty Style",
+    courses:"Beauty & Makeup",
     img: "https://tse3.mm.bing.net/th?id=OIP.U0NMxpohm2wBdBZc5hpLbAHaE8&pid=Api&P=0&h=180",
     heading: "The Ultimate Online Perfume Course 2023",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4150,7 +4169,7 @@ const HomePage = [
   {
     id: 241,
     category: "Life Style",
-    subcategory: "Pet & Care",
+    courses:"Pet Care & Training",
     img: "https://tse2.mm.bing.net/th?id=OIP.xfkQpG5_QoxQd4e2Kj-lUQHaHk&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Dr. Ian Dunbar's SIRIUS® Dog Trainer Academy - All 4 Days ",
@@ -4168,7 +4187,7 @@ const HomePage = [
   {
     id: 242,
     category: "Life Style",
-    subcategory: "Pet & Care",
+    courses:"Pet Care & Training",
     img: "https://dogsbestlife.com/wp-content/uploads/2020/04/pet-first-aid-scaled.jpeg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Dog CPR, First Aid + Safety for pet pros + dedicated owners",
@@ -4187,7 +4206,7 @@ const HomePage = [
   {
     id: 243,
     category: "Life Style",
-    subcategory: "Pet & Care",
+    courses:"Pet Care & Training",
     img: "https://tse2.mm.bing.net/th?id=OIP.SXx9Jnv5CWTuv_p8l0yOXwHaEc&pid=Api&P=0&h=180",
     heading: "Dog Training - Become A Dog Trainer - Dog Training Career",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4205,7 +4224,7 @@ const HomePage = [
   {
     id: 244,
     category: "Life Style",
-    subcategory: "Pet & Care",
+    courses:"Pet Care & Training",
     img: "https://tse1.mm.bing.net/th?id=OIP.gDDX0Wwc4VfchkWZDFuA4wAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Crucial Concepts in Dog Behavior & Training",
@@ -4223,7 +4242,7 @@ const HomePage = [
   {
     id: 245,
     category: "Life Style",
-    subcategory: "Pet & Care",
+    courses:"Pet Care & Training",
     img: "https://tse4.mm.bing.net/th?id=OIP.yTE-3yy1jVjsyb103YeJhgHaEK&pid=Api&P=0&h=180",
     heading: "Growl Class - A Workshop Demo for Reactive Dogs",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4241,7 +4260,7 @@ const HomePage = [
   {
     id: 246,
     category: "Life Style",
-    subcategory: "Pet & Care",
+    courses:"Pet Care & Training",
     img: "https://tse3.mm.bing.net/th?id=OIP.towt1EkHOplNbdeYbIeqJwHaD1&pid=Api&P=0&h=180",
     heading: "Animal Psychology/ Pets Behaviour - ACCREDITED CERTIFICATE",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4259,7 +4278,7 @@ const HomePage = [
   {
     id: 247,
     category: "Life Style",
-    subcategory: "Food & Beverage",
+    courses: "Food & Beverage",
     img: "https://tse1.explicit.bing.net/th?id=OIP.vpmTZYfzzqxlE9d6e9kqkgHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "#1 ITA Certified Tea Courses - Foundations of Chinese Tea ",
@@ -4278,7 +4297,7 @@ const HomePage = [
   {
     id: 248,
     category: "Life Style",
-    subcategory: "Food & Beverage",
+    courses: "Food & Beverage",
     img: "https://tse1.mm.bing.net/th?id=OIP.NoWSpWof90bm1HYuerMUWAHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "#2 Bake Artisan Sourdough Bread Like a Professional",
@@ -4296,7 +4315,7 @@ const HomePage = [
   {
     id: 249,
     category: "Life Style",
-    subcategory: "Food & Beverage",
+    courses: "Food & Beverage",
     img: "https://tse4.mm.bing.net/th?id=OIP.VoqOvVTEkTeS6wc3E1oi5gHaD4&pid=Api&P=0&h=180",
     heading: "Indian Culinary World - Master the art of Indian Cooking",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4315,7 +4334,7 @@ const HomePage = [
   {
     id: 250,
     category: "Life Style",
-    subcategory: "Food & Beverage",
+    courses: "Food & Beverage",
     img: "https://i120.fastpic.org/big/2022/0719/5f/f7a6ae89f5d32d50bd40a80efcea515f.jpeg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Mix World-Class Cocktails - Secrets of a Champion Mixologist",
@@ -4334,7 +4353,7 @@ const HomePage = [
   {
     id: 251,
     category: "Life Style",
-    subcategory: "Food & Beverage",
+    courses: "Food & Beverage",
     img: "https://tse1.mm.bing.net/th?id=OIP.1dNlUxfv4MDck9mbKCpp9AHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     price: 4199,
@@ -4350,7 +4369,7 @@ const HomePage = [
   {
     id: 252,
     category: "Life Style",
-    subcategory: "Food & Beverage",
+    courses: "Food & Beverage",
     img: "https://tse3.mm.bing.net/th?id=OIP.CYGNp6buZxo1CZa4bYuiMAHaE7&pid=Api&P=0&h=180",
     heading: "Wine in 9: The Complete Wine Tasting Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4369,7 +4388,7 @@ const HomePage = [
   {
     id: 253,
     category: "Life Style",
-    subcategory: "Travel",
+    courses: "Travel",
     img: "https://tse2.mm.bing.net/th?id=OIP.tOBr1Vx9o0Gm7ZTcM8FVRAHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Travel Writing: Explore the World & Publish Your Stories!",
@@ -4388,7 +4407,7 @@ const HomePage = [
   {
     id: 254,
     category: "Life Style",
-    subcategory: "Travel",
+    courses: "Travel",
     img: "https://tse4.mm.bing.net/th?id=OIP.K3CoC31DVYiIMzdqIks_PAHaHa&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Travel Journaling: How to Write Extraordinary Travel Diaries",
@@ -4408,7 +4427,7 @@ const HomePage = [
   {
     id: 255,
     category: "Life Style",
-    subcategory: "Travel",
+    courses: "Travel",
     img: "https://tse4.mm.bing.net/th?id=OIF.k5RTulbGfxpQeGlOnVhUsw&pid=Api&P=0&h=180",
     heading: "Mastering Airbnb | Learn from SF's top host, 100+ lectures",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4427,7 +4446,7 @@ const HomePage = [
   {
     id: 256,
     category: "Life Style",
-    subcategory: "Travel",
+    courses: "Travel",
     img: "https://tse1.mm.bing.net/th?id=OIP.oaXjppOK_5WDEEuy1xnhPAHaFR&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "iMovie 2023 - Complete Video Editing Course: Beginner to Pro",
@@ -4446,7 +4465,7 @@ const HomePage = [
   {
     id: 257,
     category: "Life Style",
-    subcategory: "Travel",
+    courses: "Travel",
     img: "https://tse1.mm.bing.net/th?id=OIP.TRW2kk1FECQlcS8ioqg_lAHaEK&pid=Api&P=0&h=180",
     heading: "How to Convert a Campervan (Complete Course for 2023)",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4461,7 +4480,7 @@ const HomePage = [
   {
     id: 258,
     category: "Life Style",
-    subcategory: "Travel",
+    courses: "Travel",
     img: "https://tse2.mm.bing.net/th?id=OIP.FGXLLL8Eg1Lu3cqa6Y3VwQAAAA&pid=Api&P=0&h=180",
     heading: "Solo Travel Mastery: Travel The World Cheaply & Confidently",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4480,7 +4499,7 @@ const HomePage = [
   {
     id: 259,
     category: "Photography & Video",
-    subcategory: "Photography & Video",
+    courses: "Photography & Video",
     img: "https://tse2.explicit.bing.net/th?id=OIP._DEo72RqP7AotpWa1iqPqgHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Beginner Nikon Digital SLR (DSLR) Photography",
@@ -4499,7 +4518,7 @@ const HomePage = [
   {
     id: 260,
     category: "Photography & Video",
-    subcategory: "Photography & Video",
+    courses: "Photography & Video",
     img: "https://tse4.mm.bing.net/th?id=OIP.GmkjD4a3DIwhkajoYC72LAHaE7&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Mastering Architecture and Real Estate Photography",
@@ -4517,7 +4536,7 @@ const HomePage = [
   {
     id: 261,
     category: "Photography & Video",
-    subcategory: "Photography & Video",
+    courses: "Photography & Video",
     img: "https://tse4.mm.bing.net/th?id=OIP.qMda_3gQJuNjb1JpWCc6KQHaEO&pid=Api&P=0&h=180",
     heading: "Outstanding Composition: How to blow away your audience",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4535,7 +4554,7 @@ const HomePage = [
   {
     id: 262,
     category: "Photography & Video",
-    subcategory: "Photography & Video",
+    courses: "Photography & Video",
     img: "https://tse1.mm.bing.net/th?id=OIP.B6c9pV3CrQCwXB2CTsh7wwHaEJ&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Beginner Canon Digital SLR (DSLR) Photography",
@@ -4553,7 +4572,7 @@ const HomePage = [
   {
     id: 263,
     category: "Photography & Video",
-    subcategory: "Photography & Video",
+    courses: "Photography & Video",
     img: "https://tse3.mm.bing.net/th?id=OIP.iNIEWmO4yC24oKf0WIfLJgHaFj&pid=Api&P=0&h=180",
     heading: "iPhone Photography | Take Professional Photos On Your iPhone)",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4568,7 +4587,7 @@ const HomePage = [
   {
     id: 264,
     category: "Photography & Video",
-    subcategory: "Photography & Video",
+    courses: "Photography & Video",
     img: "https://tse4.mm.bing.net/th?id=OIP.HQf7K66PCRBpCJQSBfI5JwHaEK&pid=Api&P=0&h=180",
     heading: "Video Editing in DaVinci Resolve 18/17: Beginner to Advanced",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4587,7 +4606,7 @@ const HomePage = [
   {
     id: 265,
     category: "Photography & Video",
-    subcategory: "Digital Photography ",
+    courses: "Digital Photography ",
     img: "https://tse1.mm.bing.net/th?id=OIP.bZm5LO-_Dnxl0dSy682IkgHaEJ&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Photography - The Ultimate Guide to Using Off-Camera Flash",
@@ -4606,7 +4625,7 @@ const HomePage = [
   {
     id: 266,
     category: "Photography & Video",
-    subcategory: "Digital  Photography ",
+    courses: "Digital  Photography ",
     img: "https://coursestalk.files.wordpress.com/2017/02/the-ultimate-photography-course-for-beginners.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "The Ultimate Photography Course For Beginners",
@@ -4624,7 +4643,7 @@ const HomePage = [
   {
     id: 267,
     category: "Photography & Video",
-    subcategory: " Digital  Photography ",
+    courses: "Digital  Photography ",
     img: "https://tse3.mm.bing.net/th?id=OIP.7EQWh7mzZ6qnbwsMXbj9uQHaEU&pid=Api&P=0&h=180",
     heading: "GIMP 2.10 Masterclass: From Beginner to Pro Photo Editing",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4642,7 +4661,7 @@ const HomePage = [
   {
     id: 268,
     category: "Photography & Video",
-    subcategory: "Digital  Photography ",
+    courses: "Digital  Photography ",
     img: "https://2.bp.blogspot.com/-5cjivJvY-QA/W3qcanJSy8I/AAAAAAAABYM/w_loV6I9IL4WL1BjMEqXjXp63oax29pIwCLcBGAs/s1600/gimp2106.png",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Beginner Canon Digital SLR (DSLR) Photography",
@@ -4660,7 +4679,7 @@ const HomePage = [
   {
     id: 269,
     category: "Photography & Video",
-    subcategory: " Digital  Photography ",
+    courses: "Digital  Photography ",
     img: "https://i.ytimg.com/vi/PJko71ZDkBU/maxresdefault.jpg",
     heading: "Affinity Photo for the iPad",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4676,7 +4695,7 @@ const HomePage = [
   {
     id: 270,
     category: "Photography & Video",
-    subcategory: "Digital  Photography",
+    courses: "Digital  Photography",
     img: "https://tse3.mm.bing.net/th?id=OIP.4kbyvoveU48_denI_ppbSQHaEK&pid=Api&P=0&h=180",
     heading: "Unreal Engine 5 - Learn to Create Professional Cinematics",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4696,7 +4715,7 @@ const HomePage = [
   {
     id: 271,
     category: "Photography & Video",
-    subcategory: "Photography ",
+    courses: "Photography ",
     img: "https://i.pinimg.com/originals/c1/60/41/c1604117abb474fe9384da2aa0e6bdcc.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Beginner Photography - Stunning DSLR Portraits!",
@@ -4713,7 +4732,7 @@ const HomePage = [
   {
     id: 272,
     category: "Photography & Video",
-    subcategory: "Photography ",
+    courses: "Photography ",
     img: "https://tse4.mm.bing.net/th?id=OIP.dsP_GErkmddqBoH1tC2prQHaJQ&pid=Api&P=0&h=180",
     heading: "Food Photography: Capturing Food in Your Kitchen",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4731,7 +4750,7 @@ const HomePage = [
   {
     id: 273,
     category: "Photography & Video",
-    subcategory: "Photography ",
+    courses: "Photography ",
     img: "https://2.bp.blogspot.com/-5cjivJvY-QA/W3qcanJSy8I/AAAAAAAABYM/w_loV6I9IL4WL1BjMEqXjXp63oax29pIwCLcBGAs/s1600/gimp2106.png",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Beginner Canon Digital SLR (DSLR) Photography",
@@ -4749,7 +4768,7 @@ const HomePage = [
   {
     id: 274,
     category: "Photography & Video",
-    subcategory: " Photography",
+    courses: "Photography",
     img: "https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2015/03/iStock_000050149036_Medium.jpg?fit=crop",
     heading: "Sports & Action Photography For Beginners",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4766,7 +4785,7 @@ const HomePage = [
   {
     id: 275,
     category: "Photography & Video",
-    subcategory: "Photography",
+    courses: "Photography",
     img: "https://studybullet.com/wp-content/uploads/2021/09/Practical-Photography-for-Absolute-Beginners-9-Courses-in-1.jpg",
     heading: "Practical Photography for Absolute Beginners: 9 Courses in 1",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4785,7 +4804,7 @@ const HomePage = [
   {
     id: 276,
     category: "Photography & Video",
-    subcategory: "Photography ",
+    courses: "Photography ",
     img: "https://tse1.mm.bing.net/th?id=OIP.bZm5LO-_Dnxl0dSy682IkgHaEJ&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Photography - The Ultimate Guide to Using Off-Camera Flash",
@@ -4804,7 +4823,7 @@ const HomePage = [
   {
     id: 277,
     category: "Photography & Video",
-    subcategory: "Video deign ",
+    courses:"Video Design",
     img: "https://tse4.mm.bing.net/th?id=OIP.We094T2KMHvUdeME3gCKLAHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "VIDEO EDITING. Techniques loved by pro broadcast filmmakers",
@@ -4822,7 +4841,7 @@ const HomePage = [
   {
     id: 278,
     category: "Photography & Video",
-    subcategory: "Video deign ",
+    courses:"Video Design",
     img: "https://tse3.mm.bing.net/th?id=OIP.7rO7U1HzJN7MEqUfWAQ4OwHaEK&pid=Api&P=0&h=180",
     heading: "Cinematography Masterclass: Videography + Cinematography",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4841,7 +4860,7 @@ const HomePage = [
   {
     id: 279,
     category: "Photography & Video",
-    subcategory: "Video deign ",
+    courses:"Video Design",
     img: "https://tse4.mm.bing.net/th?id=OIP.LNps9WEjD7wzPOFTUpVUtAHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Premiere Pro Lumetri: Color Correct like a Pro",
@@ -4858,7 +4877,7 @@ const HomePage = [
   {
     id: 280,
     category: "Photography & Video",
-    subcategory: " Video deign",
+    courses: "Video deign",
     img: "https://tse4.mm.bing.net/th?id=OIP.uFVk4atfyZguwXSrc-hpIwHaEK&pid=Api&P=0&h=180",
     heading: "After Effects CC: The Ultimate Motion Graphics Masterclass",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4876,7 +4895,7 @@ const HomePage = [
   {
     id: 281,
     category: "Photography & Video",
-    subcategory: "Video deign",
+    courses: "Video deign",
     img: "https://tse3.mm.bing.net/th?id=OIP.deYzD44ZqIGosUIax54howHaEK&pid=Api&P=0&h=180",
     heading: "Cinematography Course: Shoot Expert Video on Any Camera",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4894,7 +4913,7 @@ const HomePage = [
   {
     id: 282,
     category: "Photography & Video",
-    subcategory: "Video deign ",
+    courses:"Video Design",
     img: "https://online-courses.club/wp-content/uploads/2018/10/The-Complete-Final-Cut-Pro-X-Course-Beginner-To-Intermediate.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "The Complete Final Cut Pro X Course Beginner To Intermediate",
@@ -4914,7 +4933,7 @@ const HomePage = [
   {
     id: 283,
     category: "Photography & Video",
-    subcategory: " Photogrphy Tools ",
+    courses: "Photogrphy Tools ",
     img: "https://tse1.mm.bing.net/th?id=OIP.Mq-eaHXWSgCHAsN4A6XNfgHaEA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Master Adobe Lightroom Classic v12 & Lightroom CC v6 | 2023",
@@ -4932,7 +4951,7 @@ const HomePage = [
   {
     id: 284,
     category: "Photography & Video",
-    subcategory: " Photogrphy Tools ",
+    courses: "Photogrphy Tools ",
     img: "https://i.ytimg.com/vi/ONyhJoqMOV0/maxresdefault.jpg",
     heading: "Adobe Photoshop CC Essentials | Photoshop Retouching",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4951,7 +4970,7 @@ const HomePage = [
   {
     id: 285,
     category: "Photography & Video",
-    subcategory: " Photogrphy Tools ",
+    courses: "Photogrphy Tools ",
     img: "https://resources.reed.co.uk/courses/coursemedia/272765/15fe97af-af60-49ac-a991-d70e492d3a7f.jpeg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading:
@@ -4969,7 +4988,7 @@ const HomePage = [
   {
     id: 286,
     category: "Photography & Video",
-    subcategory: "  Photogrphy Tools ",
+    courses: "Photogrphy Tools ",
     img: "https://tse2.mm.bing.net/th?id=OIP.1JCDNTTUpVxZ0yjgrLsFqQHaEK&pid=Api&P=0&h=180",
     heading: "Adobe Lightroom Masterclass - Beginner to Expert",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -4987,7 +5006,7 @@ const HomePage = [
   {
     id: 287,
     category: "Photography & Video",
-    subcategory: " Photogrphy Tools ",
+    courses: "Photogrphy Tools ",
     img: "https://tse3.mm.bing.net/th?id=OIP.HjScQKPlsQjNLhDFt6L7PwHaE8&pid=Api&P=0&h=180",
     heading: "Cinematography Course: Shoot Expert Video on Any Camera",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5006,7 +5025,7 @@ const HomePage = [
   {
     id: 288,
     category: "Photography & Video",
-    subcategory: " Photogrphy Tools ",
+    courses: "Photogrphy Tools ",
     img: "https://tse3.mm.bing.net/th?id=OIP.ST8HqfJVFUEjFU4OQLIUgwHaFP&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "The Art of Seeing Photography training for the Artist in you",
@@ -5024,7 +5043,7 @@ const HomePage = [
   {
     id: 289,
     category: "Photography & Video",
-    subcategory: " Commercial Photography  ",
+    courses: "Commercial Photography  ",
     img: "https://tse4.mm.bing.net/th?id=OIP.ghJ4vVHhMO_pvN4wklXkIwHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Real Estate Photography: How To Get Started",
@@ -5041,7 +5060,7 @@ const HomePage = [
   {
     id: 290,
     category: "Photography & Video",
-    subcategory: " Commercial Photography ",
+    courses: "Commercial Photography ",
     img: "https://tse4.mm.bing.net/th?id=OIP.2rIAWLBpSere3hWgtT9CEwAAAA&pid=Api&P=0&h=180",
     heading: "Real Estate Photography Masterclass: Your Complete Guide",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5060,7 +5079,7 @@ const HomePage = [
   {
     id: 291,
     category: "Photography & Video",
-    subcategory: "Commercial Photography  ",
+    courses: "Commercial Photography  ",
     img: "https://cdn.slidesharecdn.com/ss_thumbnails/photographycourseexpert-150710063629-lva1-app6891-thumbnail-4.jpg?cb=1436510260",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Start Your Photography Business: A Photography Course",
@@ -5077,7 +5096,7 @@ const HomePage = [
   {
     id: 292,
     category: "Photography & Video",
-    subcategory: " Commercial Photography ",
+    courses: "Commercial Photography ",
     img: "https://www.institute-of-photography.com/wp-content/uploads/dreamstime_l_119344927-1.jpg",
     heading: "Sell Photos, Footage & AI Images Online - A Beginner Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5095,7 +5114,7 @@ const HomePage = [
   {
     id: 293,
     category: "Photography & Video",
-    subcategory: "Commercial Photography  ",
+    courses: "Commercial Photography  ",
     img: "https://tse4.explicit.bing.net/th?id=OIP.VXRiTlFc2oOrQFDqC1kznQHaEK&pid=Api&P=0&h=180",
     heading: "Cinematography Course: Shoot Expert Video on Any Camera",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5114,7 +5133,7 @@ const HomePage = [
   {
     id: 294,
     category: "Photography & Video",
-    subcategory: "Commercial Photography ",
+    courses: "Commercial Photography ",
     img: "https://tse2.mm.bing.net/th?id=OIP.2AdXy2zF594_Tr5VRaTZzAHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Mastering Architectural, Night & HDR Photography",
@@ -5132,7 +5151,7 @@ const HomePage = [
   {
     id: 295,
     category: "Health & Fitness",
-    subcategory: " Health & Fitness",
+    courses: "Health & Fitness",
     img: "https://healthfitnesscourses.files.wordpress.com/2016/08/8139_bbe5_11.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "14-Day Yoga Detox and Empowerment Course",
@@ -5149,7 +5168,7 @@ const HomePage = [
   {
     id: 296,
     category: "Health & Fitness",
-    subcategory: " Health & Fitness ",
+    courses: "Health & Fitness ",
     img: "https://tse3.mm.bing.net/th?id=OIP.HSWQaPoEpvvahGOiu2Ox3QAAAA&pid=Api&P=0&h=180",
     heading: "Pole Dancing Video Course with Noelle Wood",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5167,7 +5186,7 @@ const HomePage = [
   {
     id: 297,
     category: "Health & Fitness",
-    subcategory: "Health & Fitness ",
+    courses: "Health & Fitness ",
     img: "https://tse4.mm.bing.net/th?id=OIP.Q0DEvwes2DkJJkW7FXHcvAHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Prenatal Yoga",
@@ -5183,7 +5202,7 @@ const HomePage = [
   {
     id: 298,
     category: "Health & Fitness",
-    subcategory: "Health & Fitness",
+    courses: "Health & Fitness",
     img: "https://tse3.mm.bing.net/th?id=OIP.32uMX0rqlhp0I9EUi7lnCgAAAA&pid=Api&P=0&h=180",
     heading: "Learn Military Close Combat Training | Captain Chris Pizzo",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5201,7 +5220,7 @@ const HomePage = [
   {
     id: 299,
     category: "Health & Fitness",
-    subcategory: "Health & Fitness ",
+    courses: "Health & Fitness ",
     img: "https://tse1.mm.bing.net/th?id=OIP.B7-ac38qf2zlqAvVvQipZwHaEK&pid=Api&P=0&h=180",
     heading: "Cinematography Course: Shoot Expert Video on Any Camera",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5220,7 +5239,7 @@ const HomePage = [
   {
     id: 300,
     category: "Health & Fitness",
-    subcategory: "Health & Fitness ",
+    courses: "Health & Fitness ",
     img: "https://tse2.mm.bing.net/th?id=OIP.moUlsC463Es8B8aAV6feLwHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Nutrition Masterclass: Build Your Perfect Diet & Meal Plan",
@@ -5238,7 +5257,7 @@ const HomePage = [
   {
     id: 301,
     category: "Health & Fitness",
-    subcategory: "Fitness",
+    courses: "Fitness",
     img: "https://tse4.mm.bing.net/th?id=OIP.kfVSH4ljRvBjYPa34yTrOwHaHN&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Fitness For Beginners",
@@ -5255,7 +5274,7 @@ const HomePage = [
   {
     id: 302,
     category: "Health & Fitness",
-    subcategory: "Fitness ",
+    courses: "Fitness ",
     img: "https://tse3.mm.bing.net/th?id=OIP.MbZRUvmqVYc_7_EYUfcVjAHaFo&pid=Api&P=0&h=180",
     heading: "Exercise Physiology",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5273,7 +5292,7 @@ const HomePage = [
   {
     id: 303,
     category: "Health & Fitness",
-    subcategory: "Fitness ",
+    courses: "Fitness ",
     img: "https://tse1.mm.bing.net/th?id=OIP.2HRqmTavPKP3Vwz4GJZniAHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Learn Pilates: Classical Mat - Beginner to Advanced",
@@ -5291,7 +5310,7 @@ const HomePage = [
   {
     id: 304,
     category: "Health & Fitness",
-    subcategory: "Fitness",
+    courses: "Fitness",
     img: "https://tse4.mm.bing.net/th?id=OIP.cjuRd6i7bm6f5uLEb9Z0FAHaD4&pid=Api&P=0&h=180",
     heading: "Ultimate Guide to Running - for beginners to experts",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5309,7 +5328,7 @@ const HomePage = [
   {
     id: 305,
     category: "Health & Fitness",
-    subcategory: "Fitness ",
+    courses: "Fitness ",
     img: "https://tse3.mm.bing.net/th?id=OIP.0bo3Kigcsp906zk1MX_OUAHaEK&pid=Api&P=0&h=180",
     heading: "Become a SuperHuman: Naturally & Safely Boost Testosterone",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5328,7 +5347,7 @@ const HomePage = [
   {
     id: 306,
     category: "Health & Fitness",
-    subcategory: "Fitness ",
+    courses: "Fitness ",
     img: "https://tse3.mm.bing.net/th?id=OIP.K1Xb6SdhcXJTvANMLcwlNQHaE5&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Science-Based Workout: Build Muscle, Lose Fat & Get Fit",
@@ -5347,7 +5366,7 @@ const HomePage = [
   {
     id: 307,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses",
+    courses: "Yoga Courses",
     img: "https://tse4.mm.bing.net/th?id=OIP.kfVSH4ljRvBjYPa34yTrOwHaHN&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Kids Yoga Teacher Training Certificate Course - Ages 2-17",
@@ -5365,7 +5384,7 @@ const HomePage = [
   {
     id: 308,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses ",
+    courses: "Yoga",
     img: "https://tse4.mm.bing.net/th?id=OIP.Iit_3_9tVbDfTSN69Zzz3QHaEK&pid=Api&P=0&h=180",
     heading: "Internationally Accredited Diploma in Yoga Training",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5383,7 +5402,7 @@ const HomePage = [
   {
     id: 309,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses ",
+    courses: "Yoga",
     img: "https://tse2.mm.bing.net/th?id=OIP.88-eDcyBRr6ubkOM4z7I0wHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Breath is Life Pranayama & Meditation course - YogaAlliance",
@@ -5401,7 +5420,7 @@ const HomePage = [
   {
     id: 310,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses",
+    courses: "Yoga Courses",
     img: "https://tse1.mm.bing.net/th?id=OIP.KNacOg3a8Cg8_8T2wJT56QHaE7&pid=Api&P=0&h=180",
     heading: "Professional Accredited Yoga Teacher Training Diploma Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5419,7 +5438,7 @@ const HomePage = [
   {
     id: 311,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses ",
+    courses: "Yoga",
     img: "https://tse4.explicit.bing.net/th?id=OIP.PgUz7Plj2RzTkfjS9kPglQHaF7&pid=Api&P=0&h=180",
     heading: "Yoga for Back Pain Relief & Prevention-Certification Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5438,7 +5457,7 @@ const HomePage = [
   {
     id: 312,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses ",
+    courses: "Yoga",
     img: "https://tse3.mm.bing.net/th?id=OIP.K1Xb6SdhcXJTvANMLcwlNQHaE5&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Science-Based Workout: Build Muscle, Lose Fat & Get Fit",
@@ -5457,7 +5476,7 @@ const HomePage = [
   {
     id: 313,
     category: "Health & Fitness",
-    subcategory: "Sports Courses",
+    courses: "Sports",
     img: "https://tse3.mm.bing.net/th?id=OIP.ZAABPJBXWiS6eE4iwGveKAHaE7&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "The Perfect Golf Swing - Timeless Golf Instruction",
@@ -5474,7 +5493,7 @@ const HomePage = [
   {
     id: 314,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses ",
+    courses: "Sports",
     img: "https://tse3.mm.bing.net/th?id=OIP.SzXu04I_PPNMjqi-0I7C1gHaEK&pid=Api&P=0&h=180",
     heading: "Table tennis for beginners",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5493,7 +5512,7 @@ const HomePage = [
   {
     id: 315,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses ",
+    courses: "Sports",
     img: "https://tse2.mm.bing.net/th?id=OIP.Dk_aF2b1PaPSgmMth6xZ4wHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Elevate Your Tennis Game: Learn from Champion Andre Agassi",
@@ -5511,7 +5530,7 @@ const HomePage = [
   {
     id: 316,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses",
+    courses: "Sports",
     img: "https://tse2.mm.bing.net/th?id=OIP.Uo6tP2EI_8tLu0rbs2UNOgHaEK&pid=Api&P=0&h=180",
     heading: "Total Immersion Swimming: Swim Better, Easier, Faster!",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5528,7 +5547,7 @@ const HomePage = [
   {
     id: 317,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses ",
+    courses: "Sports",
     img: "https://tse2.mm.bing.net/th?id=OIP.W4rVjiXuDCya3x7EjE3ZQAAAAA&pid=Api&P=0&h=180",
     heading: "Fully Accredited Professional Sports Psychology Diploma",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5546,7 +5565,7 @@ const HomePage = [
   {
     id: 318,
     category: "Health & Fitness",
-    subcategory: "Yoga Courses ",
+    courses: "Sports",
     img: "https://tse1.mm.bing.net/th?id=OIP.BqBZ0KqRwj3jPwPYS_IDBAHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Introduction to Football (Soccer) Tactics",
@@ -5565,7 +5584,7 @@ const HomePage = [
   {
     id: 319,
     category: "Health & Fitness",
-    subcategory: "Mental Health Courses",
+    courses: "Mental Health",
     img: "https://tse3.mm.bing.net/th?id=OIP.sqXcrJQUE6w_vvcAX0PZNQHaFj&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "CBT for Psychosis",
@@ -5582,7 +5601,7 @@ const HomePage = [
   {
     id: 320,
     category: "Health & Fitness",
-    subcategory: "Mental Health Courses",
+    courses: "Mental Health",
     img: "https://tse3.mm.bing.net/th?id=OIP.lTpflqRXRbOC5LwODDMqRAHaEK&pid=Api&P=0&h=180",
     heading: "CBT4PANIC. Overcome Panic & Anxiety attacks fast",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5601,7 +5620,7 @@ const HomePage = [
   {
     id: 321,
     category: "Health & Fitness",
-    subcategory: "Mental Health Courses",
+    courses: "Mental Health",
     img: "https://tse3.mm.bing.net/th?id=OIP.YjabII1lirdXDFp4QBXaiAHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Providing Trauma-Informed Care",
@@ -5618,7 +5637,7 @@ const HomePage = [
   {
     id: 322,
     category: "Health & Fitness",
-    subcategory: "Mental Health Courses",
+    courses: "Mental Health",
     img: "https://tse2.mm.bing.net/th?id=OIP.61ETXiILSQEyLlEWIAirZAHaFP&pid=Api&P=0&h=180",
     heading: "CBT for Depression, Anxiety, Phobias and Panic Attacks!",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5636,7 +5655,7 @@ const HomePage = [
   {
     id: 323,
     category: "Health & Fitness",
-    subcategory: "Mental Health Courses ",
+    courses: "Mental Health",
     img: "https://tse2.mm.bing.net/th?id=OIP.muB-qSYW6KCziS_dIOcFwgHaHa&pid=Api&P=0&h=180",
     heading: "Introduction to CBT: Cognitive Behavioral Therapy",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5655,7 +5674,7 @@ const HomePage = [
   {
     id: 324,
     category: "Health & Fitness",
-    subcategory: "Mental Health Courses ",
+    courses: "Mental Health",
     img: "https://tse4.mm.bing.net/th?id=OIP.auoB_5ooHxtgFBDjOi_ZEwHaEh&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Mental Health First Aid Skills -s",
@@ -5674,7 +5693,7 @@ const HomePage = [
   {
     id: 325,
     category: "Health & Fitness",
-    subcategory: "Dance",
+    courses: "Dance",
     img: "https://tse1.mm.bing.net/th?id=OIP.JpaGFmEeKLlFd0UnKlfzvgHaDt&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Poi Dancing: The Beginner Series",
@@ -5691,7 +5710,7 @@ const HomePage = [
   {
     id: 326,
     category: "Health & Fitness",
-    subcategory: "Dance",
+    courses: "Dance",
     img: "https://tse3.mm.bing.net/th?id=OIP.pKSdGB9vcEhXwjj0VX3D2QHaD2&pid=Api&P=0&h=180",
     heading: "Hip Hop Dance For Beginners",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5709,7 +5728,7 @@ const HomePage = [
   {
     id: 327,
     category: "Health & Fitness",
-    subcategory: "Dance",
+    courses: "Dance",
     img: "https://tse4.mm.bing.net/th?id=OIP.-c28STDsUwju7TnkhHZ9GwHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Shuffle Dance Master Class Vol 1. | How to Shuffle Dance",
@@ -5726,7 +5745,7 @@ const HomePage = [
   {
     id: 328,
     category: "Health & Fitness",
-    subcategory: "Dance",
+    courses: "Dance",
     img: "https://tse4.mm.bing.net/th?id=OIP.Ey_MX5cVRC4HXCi-pEpI1wHaEK&pid=Api&P=0&h=180",
     heading: "Belly Dance for Beginners: Technique and Combinations",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5743,7 +5762,7 @@ const HomePage = [
   {
     id: 329,
     category: "Health & Fitness",
-    subcategory: "Dance",
+    courses: "Dance",
     img: "https://tse1.mm.bing.net/th?id=OIP.S_YScNtoaFrqGjabotyLjwHaEK&pid=Api&P=0&h=180",
     heading: "Poi dancing - beyond the basics",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5762,7 +5781,7 @@ const HomePage = [
   {
     id: 330,
     category: "Health & Fitness",
-    subcategory: "Dance",
+    courses: "Dance",
     img: "https://tse4.mm.bing.net/th?id=OIP.TKrlLu0gEqqfNO1CPTNaoQHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Learn SALSA in 5 Hours and Dance Your Way to Fun & Excitement!",
@@ -5780,7 +5799,7 @@ const HomePage = [
   {
     id: 331,
     category: "Teaching & Academics",
-    subcategory: "Teaching & Academics",
+    courses: "Teaching & Academics",
     img: "https://tse3.mm.bing.net/th?id=OIP.WwoFq2Yv-z0Itde-L-rugwHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Spanish 1-4: Beginner, Elementary, Intermediate and Advanced",
@@ -5799,7 +5818,7 @@ const HomePage = [
   {
     id: 332,
     category: "Teaching & Academics",
-    subcategory: "Teaching & Academics",
+    courses: "Teaching & Academics",
     img: "https://tse3.explicit.bing.net/th?id=OIP.J7R3eC0aVeQC7yKiQmCjLgHaFQ&pid=Api&P=0&h=180",
     heading: "Classroom Management Essentials",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5818,7 +5837,7 @@ const HomePage = [
   {
     id: 333,
     category: "Teaching & Academics",
-    subcategory: "Teaching & Academics",
+    courses: "Teaching & Academics",
     img: "https://i.ytimg.com/vi/PxoLFCEQ4KU/maxresdefault.jpg",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Wheelock's Latin : Chapters 1-15 Lectures",
@@ -5835,7 +5854,7 @@ const HomePage = [
   {
     id: 334,
     category: "Teaching & Academics",
-    subcategory: "Teaching & Academics",
+    courses: "Teaching & Academics",
     img: "https://tse4.mm.bing.net/th?id=OIP.wbu06ty6l99i8ta7b8jvmgHaEK&pid=Api&P=0&h=180",
     heading: "Art History Prehistory to the Renaissance",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5852,7 +5871,7 @@ const HomePage = [
   {
     id: 335,
     category: "Teaching & Academics",
-    subcategory: "Teaching & Academics",
+    courses: "Teaching & Academics",
     img: "https://tse4.mm.bing.net/th?id=OIP.Inlqsb41KR5NZJ_W_uprMgHaEK&pid=Api&P=0&h=180",
     heading: "English Grammar Launch: Upgrade your speaking and listening",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5870,7 +5889,7 @@ const HomePage = [
   {
     id: 336,
     category: "Teaching & Academics",
-    subcategory: "Teaching & Academics",
+    courses: "Teaching & Academics",
     img: "https://tse1.mm.bing.net/th?id=OIP.Ov53pHpg9CFpD6Rr1NY3tQHaEB&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Master Cognitive Biases and Improve Your Critical Thinking",
@@ -5889,7 +5908,7 @@ const HomePage = [
   {
     id: 337,
     category: "Teaching & Academics",
-    subcategory: "Engineering Courses",
+    courses: "Engineering Courses",
     img: "https://tse4.mm.bing.net/th?id=OIP.Ln-sDEV0wwdLebGicL7xewHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Electricity & electronics - Robotics, learn by building",
@@ -5907,7 +5926,7 @@ const HomePage = [
   {
     id: 338,
     category: "Teaching & Academics",
-    subcategory: "Engineering Courses",
+    courses: "Engineering Courses",
     img: "https://i.ytimg.com/vi/h9vqvDcM070/maxresdefault.jpg",
     heading: "RF / Antenna Fundamentals",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5925,7 +5944,7 @@ const HomePage = [
   {
     id: 339,
     category: "Teaching & Academics",
-    subcategory: "Engineering Courses",
+    courses: "Engineering Courses",
     img: "https://tse3.mm.bing.net/th?id=OIP.T5XkMeibBuvFga1s3Scr6wAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Electrical Power Engineering Principles",
@@ -5943,7 +5962,7 @@ const HomePage = [
   {
     id: 340,
     category: "Teaching & Academics",
-    subcategory: "Engineering Courses",
+    courses: "Engineering Courses",
     img: "https://tse1.mm.bing.net/th?id=OIP.n-7G3L7nCfcIdw_NX5TNKwHaEK&pid=Api&P=0&h=180",
     heading: "Electronics - for Complete Beginners",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5960,7 +5979,7 @@ const HomePage = [
   {
     id: 341,
     category: "Teaching & Academics",
-    subcategory: "Engineering Courses",
+    courses: "Engineering Courses",
     img: "https://tse3.mm.bing.net/th?id=OIP.hSR1D76NiNhzsSg9Dos6ngHaEK&pid=Api&P=0&h=180",
     heading: "Data Center Essentials: General Introduction",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -5977,7 +5996,7 @@ const HomePage = [
   {
     id: 342,
     category: "Teaching & Academics",
-    subcategory: "Engineering Courses",
+    courses: "Engineering Courses",
     img: "https://tse1.mm.bing.net/th?id=OIP.w9XwLG2z2EBfwTNcO23ZogHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Electric Vehicle Technology - A Beginner's Course",
@@ -5995,7 +6014,7 @@ const HomePage = [
   {
     id: 343,
     category: "Teaching & Academics",
-    subcategory: "Social Science Courses",
+    courses: "Social Science",
     img: "https://tse1.mm.bing.net/th?id=OIP.eKH0yVmKOBIzQn3WsoSBigHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Global Environmental Problems: Surveying the Human Footprint",
@@ -6013,7 +6032,7 @@ const HomePage = [
   {
     id: 344,
     category: "Teaching & Academics",
-    subcategory: "Social Science Courses",
+    courses: "Social Science",
     img: "https://tse4.mm.bing.net/th?id=OIP.4az91glSk6WetQBScrMNuQHaEK&pid=Api&P=0&h=180",
     heading: "The economic model of emerging countries - Michael Spence",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6032,7 +6051,7 @@ const HomePage = [
   {
     id: 345,
     category: "Teaching & Academics",
-    subcategory: "Social Science Courses",
+    courses: "Social Science",
     img: "https://tse1.mm.bing.net/th?id=OIP.1OM6hjoinr8TOVVvLlm0NwHaE8&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Learn Social Psychology",
@@ -6049,7 +6068,7 @@ const HomePage = [
   {
     id: 346,
     category: "Teaching & Academics",
-    subcategory: "Social Science Courses",
+    courses: "Social Science",
     img: "https://tse1.mm.bing.net/th?id=OIP.33rly5tzmyg45RDQbR7begHaHI&pid=Api&P=0&h=180",
     heading: "Learn Social Psychology - The Self & Self-Esteem",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6067,7 +6086,7 @@ const HomePage = [
   {
     id: 347,
     category: "Teaching & Academics",
-    subcategory: "Social Science Courses",
+    courses: "Social Science",
     img: "https://tse4.mm.bing.net/th?id=OIP.SJ7ihpicH9cvTPkOnJKMjQHaFj&pid=Api&P=0&h=180",
     heading: "Economics: Market Forces of Demand, Supply and Equilibrium",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6086,7 +6105,7 @@ const HomePage = [
   {
     id: 348,
     category: "Teaching & Academics",
-    subcategory: "Social Science Courses",
+    courses: "Social Science",
     img: "https://tse2.mm.bing.net/th?id=OIP.J36SD_XGWN_SMA5Y2E4MwAAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Counselling Skills Certificate Course (Beginner to Advanced)",
@@ -6104,7 +6123,7 @@ const HomePage = [
   {
     id: 349,
     category: "Teaching & Academics",
-    subcategory: "Math Courses",
+    courses: "Math",
     img: "https://tse4.mm.bing.net/th?id=OIP.Xf5oFJ3aikicw2cO9KCjlQHaJQ&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Introduction to Probability and Statistics",
@@ -6121,7 +6140,7 @@ const HomePage = [
   {
     id: 350,
     category: "Teaching & Academics",
-    subcategory: "Math Courses",
+    courses: "Math",
     img: "https://tse1.mm.bing.net/th?id=OIP.lJj8MJm1AW1cEl354D6HbAHaEK&pid=Api&P=0&h=180",
     heading: "Workshop in Probability and Statistics",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6140,7 +6159,7 @@ const HomePage = [
   {
     id: 351,
     category: "Teaching & Academics",
-    subcategory: "Math Courses",
+    courses: "Math",
     img: "https://tse3.mm.bing.net/th?id=OIP.nv-eisx0hMqBJ0HlVBOuQQAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Become a Calculus 1 Master",
@@ -6158,7 +6177,7 @@ const HomePage = [
   {
     id: 352,
     category: "Teaching & Academics",
-    subcategory: "Math Courses",
+    courses: "Math",
     img: "https://tse4.mm.bing.net/th?id=OIP.0zc-lWn6K8PASj0X9eZPSgHaEK&pid=Api&P=0&h=180",
     heading: "Complete High Speed Vedic Math Course",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6175,7 +6194,7 @@ const HomePage = [
   {
     id: 353,
     category: "Teaching & Academics",
-    subcategory: "Math Courses",
+    courses: "Math",
     img: "https://tse3.mm.bing.net/th?id=OIP.OokBNVvg86tV6DemF_pxhgHaJs&pid=Api&P=0&h=180",
     heading: "Discrete Mathematics",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6194,7 +6213,7 @@ const HomePage = [
   {
     id: 354,
     category: "Teaching & Academics",
-    subcategory: "Math Courses",
+    courses: "Math",
     img: "https://tse2.mm.bing.net/th?id=OIP.fSWrxd0niH-YLlcWEWqxjgAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Master Math by Coding in Python",
@@ -6212,7 +6231,7 @@ const HomePage = [
   {
     id: 355,
     category: "Teaching & Academics",
-    subcategory: "Science Courses",
+    courses: "Science",
     img: "https://tse1.mm.bing.net/th?id=OIP.IbaBSbe7I0x3lBm5DUgyDwHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Quantum Physics: an overview of a weird world (Basics)",
@@ -6229,7 +6248,7 @@ const HomePage = [
   {
     id: 356,
     category: "Teaching & Academics",
-    subcategory: "Science  Courses",
+    courses: "Science",
     img: "https://tse4.mm.bing.net/th?id=OIP.KX4WsCYL_dqH9-F7ctxsqwHaLH&pid=Api&P=0&h=180",
     heading: "Introductory Biology",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6247,7 +6266,7 @@ const HomePage = [
   {
     id: 357,
     category: "Teaching & Academics",
-    subcategory: "Science  Courses",
+    courses: "Science",
     img: "https://tse2.mm.bing.net/th?id=OIP.UsGEnpUGdsO1gTJVPf_tQgAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Introduction to Medical Imaging",
@@ -6264,7 +6283,7 @@ const HomePage = [
   {
     id: 358,
     category: "Teaching & Academics",
-    subcategory: "Science  Courses",
+    courses: "Science",
     img: "https://tse3.mm.bing.net/th?id=OIP.n3qhQI8dIcK7i8SRcJHTGwHaEK&pid=Api&P=0&h=180",
     heading: "Easy Anatomy and Physiology (Platinum Edition)",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6281,7 +6300,7 @@ const HomePage = [
   {
     id: 359,
     category: "Teaching & Academics",
-    subcategory: "Science  Courses",
+    courses: "Science",
     img: "https://tse1.mm.bing.net/th?id=OIP.oCW1CGr9bWQiT8xpe0An2AHaEK&pid=Api&P=0&h=180",
     heading: "The complete SOLAR ENERGY course. Beginner to advanced level",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6299,7 +6318,7 @@ const HomePage = [
   {
     id: 360,
     category: "Teaching & Academics",
-    subcategory: "Science  Courses",
+    courses: "Science",
     img: "https://tse1.mm.bing.net/th?id=OIP.u-RfQwzqPEWqtC1yqyOmFgHaGN&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "How to Write a Successful Research Paper",
@@ -6317,7 +6336,7 @@ const HomePage = [
   {
     id: 361,
     category: "Teaching & Academics",
-    subcategory: "Teacher Training Courses",
+    courses: "Teacher Training",
     img: "https://tse4.mm.bing.net/th?id=OIP.0Yto7L1df7lcXAmSKIN3WQHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Classroom Management Essentials",
@@ -6335,7 +6354,7 @@ const HomePage = [
   {
     id: 362,
     category: "Teaching & Academics",
-    subcategory: "Teacher Training  Courses",
+    courses: "Teacher Training",
     img: "https://i0.wp.com/inlpcenter.org/wp-content/uploads/2018/10/howtobecomealifecoach.jpg",
     heading: "How to Become a Life Coach - Is Training Needed?",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6354,7 +6373,7 @@ const HomePage = [
   {
     id: 363,
     category: "Teaching & Academics",
-    subcategory: "Teacher Training  Courses",
+    courses: "Teacher Training",
     img: "https://tse3.explicit.bing.net/th?id=OIP.CovkDfjqdCGkmUaP7TXI1QHaEL&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Train the Trainer Foundation: Adult Education Mastery Course",
@@ -6373,7 +6392,7 @@ const HomePage = [
   {
     id: 364,
     category: "Teaching & Academics",
-    subcategory: "Teacher Training  Courses",
+    courses: "Teacher Training",
     img: "https://tse2.mm.bing.net/th?id=OIP.eENQYanJXL9EfA4ZcNy_PQHaEK&pid=Api&P=0&h=180",
     heading: "Train the Trainer 101: For Beginners Only!",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6390,7 +6409,7 @@ const HomePage = [
   {
     id: 365,
     category: "Teaching & Academics",
-    subcategory: "Teacher Training  Courses",
+    courses: "Teacher Training",
     img: "https://1.bp.blogspot.com/-4k9jqnpC2tI/XOsfhi1AzLI/AAAAAAAAFWU/nVzvYHOa6fMaQYr3lsUgfa1P-OwN_bqFQCLcBGAs/s1600/Confidence%2BOn%2BCamera-%2BMake%2BAmazing%2BVideos%252C%2BEasily.jpg",
     heading: "Confidence On Camera: Make Amazing Videos, Easily.",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -6409,7 +6428,7 @@ const HomePage = [
   {
     id: 366,
     category: "Teaching & Academics",
-    subcategory: "Teacher Training  Courses",
+    courses: "Teacher Training",
     img: "https://tse1.mm.bing.net/th?id=OIP.Y6fFbrPCT8dqwV-oCvO2NwHaEK&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Voice-Over Training: Record And Edit Voice Overs Like A Pror",
@@ -6425,6 +6444,6 @@ const HomePage = [
       "You’ll find out how to master the art of voiceover recording to earn a full-time income in as little as a few months!",
     pre: "Watch this video to discover how you can earn a good income from home as a professional voiceover artist!.",
   },
-];
+]
 
 module.exports = { HomePage };

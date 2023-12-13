@@ -16,7 +16,7 @@ const userSchema = mongoose.Schema({
   predata:String,
   pre:String,
   time:String,
- 
+  courses:String
 });
 const DataAll = mongoose.model("DataAll", userSchema);
 module.exports = DataAll;
