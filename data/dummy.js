@@ -2113,7 +2113,7 @@ const HomePage = [
   {
     id: 127,
     category: "Finance & Accounting",
-    courses: "compilance",
+     courses: "compliance",
     img: "https://tse1.mm.bing.net/th?id=OIP.qptoEqh6-axD1YVGTPMEcgHaEK&pid=Api&P=0&h=180",
     heading: "Anti Money Laundering & Countering of Terrorist Financing",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2132,7 +2132,7 @@ const HomePage = [
   {
     id: 128,
     category: "Finance & Accounting",
-    courses: "compilance",
+     courses: "compliance",
     img: "https://image.slidesharecdn.com/ywd2ghyrsklius1wlrc3-signature-aa9bd935008c4035aadf2730259c97d8331ec609886c75dbe644bd3958229e1f-poli-150502031137-conversion-gate01/95/top-10-lessons-learned-from-coso-2013-implementation-11-638.jpg?cb=1430536502",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "COSO 2013 Requirements and Implementation Overview",
@@ -2150,7 +2150,7 @@ const HomePage = [
   {
     id: 129,
     category: "Finance & Accounting",
-    courses: "compilance",
+     courses: "compliance",
     img: "https://tse1.mm.bing.net/th?id=OIP.dzrp9RxcYaFMiq5kGBKfAwHaEK&pid=Api&P=0&h=180",
     heading: "Internal Controls - Design, Implementation and Monitoring",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2167,7 +2167,7 @@ const HomePage = [
   {
     id: 130,
     category: "Finance & Accounting",
-    courses: "compilance",
+     courses: "compliance",
     img: "https://tse3.mm.bing.net/th?id=OIP.jUdWUeqjtyaUEm6BzDvabAHaE8&pid=Api&P=0&h=180",
     heading: "Introduction to Sarbanes Oxley (SOX).",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2185,7 +2185,7 @@ const HomePage = [
   {
     id: 131,
     category: "Finance & Accounting",
-    courses: "compilance",
+     courses: "compliance",
     img: "https://www.textileebook.com/wp-content/uploads/2020/09/Accounting-Made-Simple-Accounting-Explained-in-100-Pages-or-Less.jpg",
     heading: "Accounting Made Easy: A Quick Guide to Financial Accounting",
     rating: "4.6⭐⭐⭐⭐⭐",
@@ -2204,7 +2204,7 @@ const HomePage = [
   {
     id: 132,
     category: "Finance & Accounting",
-    courses: "compilance",
+     courses: "compliance",
     img: "https://tse1.mm.bing.net/th?id=OIP.kO5GdWefhgSPbmEa7wjBBgAAAA&pid=Api&P=0&h=180",
     rating: "4.6⭐⭐⭐⭐⭐",
     heading: "Anti-Money Laundering in Gambling",
